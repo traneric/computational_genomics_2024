@@ -1,0 +1,43 @@
+#date: 2024-05-19_22:38
+#sample: GCF_929618205.1_cpe015_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,MITEYpe1,,predicted,mite,115,,0.0,0.778,0.935,2,24,"NZ_CAKNDM010000001.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",639864,639978,M16 I1 M56 I1 M43
+2,MITEEc1,,predicted,mite,123,,0.0,0.776,0.967,4,24,"NZ_CAKNDM010000002.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",265315,265437,M90 I1 M1 I1 M7 D2 M23
+3,MITEYpe1,,predicted,mite,123,,0.0,0.878,1.0,0,15,"NZ_CAKNDM010000003.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",356524,356646,M123
+4,MITEYpe1,,predicted,mite,118,,0.0,0.835,0.927,5,15,"NZ_CAKNDM010000003.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",30758,30875,M33 I1 M23 I1 M2 D1 M21 I1 M2 D1 M35
+5,MITEYpe1,,predicted,mite,115,,0.0,0.821,0.935,2,19,"NZ_CAKNDM010000004.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",73138,73252,M32 I1 M37 I1 M46
+6,MITEYpe1,,predicted,mite,122,,0.0,0.792,0.943,6,20,"NZ_CAKNDM010000005.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",140228,140349,M34 I1 M2 D1 M31 I2 M3 D1 M3 D1 M46
+7,MITEEc1,,predicted,mite,119,,0.0,0.769,0.902,6,22,"NZ_CAKNDM010000006.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",190276,190394,M22 D2 M8 I1 M1 I1 M29 D2 M55
+8,MITEYpe1,,predicted,mite,118,,0.0,0.807,0.943,2,21,"NZ_CAKNDM010000006.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",207617,207734,M35 I1 M2 D1 M80
+9,MITEPlu5,,predicted,mite,111,,0.0,0.775,0.902,0,25,"NZ_CAKNDM010000006.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",140639,140749,M111
+10,MITEYpe1,,predicted,mite,123,,0.0,0.772,0.935,8,21,"NZ_CAKNDM010000007.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",157958,158080,M37 D1 M5 I1 M16 D1 M13 I2 M1 I1 M10 D1 M1 D1 M36
+11,MITEYpe1,,predicted,mite,124,,0.0,0.808,0.976,3,21,"NZ_CAKNDM010000007.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",112760,112883,M48 D1 M2 I1 M8 D1 M64
+12,MITEYpe1,,predicted,mite,123,,0.0,0.886,1.0,0,14,"NZ_CAKNDM010000007.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",59607,59729,M123
+13,Tn4371,,predicted,ice,2150,,0,0.815,0.969,64,340,"NZ_CAKNDM010000010.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",95742,97891,M25 I2 M5 D1 M3 D1 M45 I1 M2 D1 M106 I1 M27 I1 M32 I1 M8 D1 M6 I2 M5 D2 M20 I1 M6 D1 M8 I1 M8 D1 M160 D1 M2 I1 M2 D1 M6 I1 M73 I1 M3 D1 M341 D1 M20 D1 M17 D1 M52 I1 M4 D1 M220 I1 M2 I1 M2 I1 M1 I5 M1 I4 M53 D1 M2 D2 M12 I1 M1 I1 M1 I1 M9 D1 M5 D1 M1 D1 M15 I1 M2 I3 M3 I2 M88 I1 M4 D1 M315 D1 M3 D2 M58 D3 M338
+14,MITEYpe1,,predicted,mite,117,,0.0,0.795,0.951,0,24,"NZ_CAKNDM010000011.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",16795,16911,M117
+15,MITEPlu5,,predicted,mite,123,,0.0,0.798,0.984,2,23,"NZ_CAKNDM010000012.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",85742,85864,M96 D1 M2 I1 M24
+16,MITEYpe1,,predicted,mite,114,,0.0,0.774,0.927,1,25,"NZ_CAKNDM010000012.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",11982,12095,M110 I1 M4
+17,MITEYpe1,,predicted,mite,123,,0.0,0.823,0.984,2,20,"NZ_CAKNDM010000014.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",54180,54302,M35 I1 M2 D1 M85
+18,MITEYpe1,,predicted,mite,117,,0.0,0.829,0.951,0,20,"NZ_CAKNDM010000014.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",85103,85219,M117
+19,MITEEc1,,predicted,mite,123,,0.0,0.776,0.967,4,24,"NZ_CAKNDM010000018.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",30661,30783,M24 D2 M6 I1 M1 I1 M90
+20,Tn5403,,predicted,unit transposon,3664,,0,0.999,1.0,1,2,"NZ_CAKNDM010000022.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",8765,12428,M93 D1 M3570
+21,ISSen7,,predicted,insertion sequence,1240,,0,0.906,0.981,22,96,"NZ_CAKNDM010000022.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",16358,17597,M227 D4 M7 D6 M177 I12 M819
+22,MITEPlu5,,predicted,mite,111,,0.0,0.82,0.902,0,20,"NZ_CAKNDM010000023.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",23290,23400,M111
+23,IS903,IS602;IS903R;IS903L,predicted,insertion sequence,1049,,0,0.957,0.992,0,45,"NZ_CAKNDM010000030.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",1573,2621,M1049
+24,ISKpn43,,predicted,insertion sequence,1374,,0,0.866,0.997,4,180,"NZ_CAKNDM010000030.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",199,1572,M72 I1 M1 I1 M1035 D1 M1 D1 M263
+25,ISSen9,,predicted,insertion sequence,768,,0,0.951,1.0,0,38,"NZ_CAKNDM010000035.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",11829,12596,M768
+26,IS26,IS46;IS26R;IS160;IS140;IS26L;IS6,predicted,insertion sequence,820,,0,0.999,1.0,0,1,"NZ_CAKNDM010000036.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",1,820,M820
+27,ISSen4,IS1222SC;ISEc34,predicted,insertion sequence,1222,,0,0.993,0.991,6,2,"NZ_CAKNDM010000042.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",1,1222,M110 D6 M1106
+28,ISLad6,,predicted,insertion sequence,1367,,0,0.887,0.999,2,152,"NZ_CAKNDM010000043.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",1850,3216,M59 D2 M1306
+29,Tn6196,,predicted,unit transposon,3640,,0,1.0,0.998,0,1,"NZ_CAKNDM010000045.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",571,4210,M3640
+30,IS5075,,predicted,insertion sequence,1222,,0,0.925,0.921,0,92,"NZ_CAKNDM010000045.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",4211,5432,M1222
+31,ISKpn60,,predicted,insertion sequence,1379,,0.0,0.733,0.98,27,344,"NZ_CAKNDM010000048.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",291,1669,M32 I2 M1 I1 M79 D2 M125 I1 M8 D2 M2 D1 M4 I1 M16 D3 M5 D1 M4 D1 M81 I2 M3 I1 M5 D3 M679 D1 M5 I1 M242 D1 M2 D1 M4 I1 M2 I1 M64
+32,ISLad6,,predicted,insertion sequence,1363,,0,0.799,0.991,12,264,"NZ_CAKNDM010000074.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",3,1365,M32 I1 M3 I1 M129 I1 M2 D1 M35 D1 M34 I1 M480 D1 M3 D1 M5 I1 M1 I1 M120 I1 M5 D1 M509
+33,IS5075,,predicted,insertion sequence,1222,,0,0.929,0.921,0,87,"NZ_CAKNDM010000075.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",1,1222,M1222
+34,ISEcl1,,predicted,insertion sequence,1336,,0,0.979,1.0,0,28,"NZ_CAKNDM010000076.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",2,1337,M1336
+35,ISKpn26,,predicted,insertion sequence,1113,,0,0.955,0.931,0,50,"NZ_CAKNDM010000080.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",1,1113,M1113
+36,IS6100,IS6100L;IS6100R,predicted,insertion sequence,880,,0,1.0,1.0,0,0,"NZ_CAKNDM010000081.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",1,880,M880
+27_26,cn_13260_IS26,,putative,composite transposon,13260,,0,0.999,1.0,0,1,"NZ_CAKNDM010000036.1 Citrobacter freundii strain cpe015, whole genome shotgun sequence",0,13260,

@@ -1,0 +1,26 @@
+#date: 2024-05-19_21:44
+#sample: GCF_929606395.1_cpe008_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,ISPpu1,,predicted,insertion sequence,1053,,0,0.781,0.901,5,226,"NZ_CAKNBT010000003.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",154269,155321,M310 I1 M3 D1 M116 I1 M3 D1 M175 I1 M444
+2,ISPsy34,,predicted,insertion sequence,2027,,0,0.764,0.922,40,419,"NZ_CAKNBT010000032.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",44,2070,M13 D1 M4 I1 M43 D1 M3 I1 M133 I1 M5 D1 M221 I1 M3 D1 M155 I1 M6 D1 M115 D4 M9 I3 M1 I1 M95 I1 M4 D1 M481 D1 M2 D2 M1 D4 M4 D1 M14 D1 M87 N97 M10 D1 M4 I1 M54 D1 M106 D1 M6 I1 M5 I1 M3 D1 M237 D1 M7 I1 M1 I1 M9 I1 M65
+3,ISPen2,,predicted,insertion sequence,1232,,0,0.961,1.0,0,48,"NZ_CAKNBT010000035.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",31015,32246,M1232
+4,ISPa26,,predicted,insertion sequence,1193,,0,0.997,1.0,0,3,"NZ_CAKNBT010000057.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",25221,26413,M1193
+5,ISPa140,,predicted,insertion sequence,2378,,0,0.93,0.996,10,156,"NZ_CAKNBT010000073.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",8430,10807,M302 I3 M1 I1 M1 I2 M739 I2 M2 D1 M1 D1 M1330
+6,ISPa79,,predicted,insertion sequence,1443,,0,1.0,0.98,0,0,"NZ_CAKNBT010000086.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",6265,7707,M1443
+7,ISPsko1,,predicted,insertion sequence,2370,,0,0.912,0.993,5,203,"NZ_CAKNBT010000089.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",3384,5753,M2315 D2 M3 I2 M34 I1 M16
+8,ISPst3,,predicted,insertion sequence,2605,,0,0.949,1.0,1,131,"NZ_CAKNBT010000098.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",140,2744,M109 I1 M2496
+9,ISPa1635,,predicted,insertion sequence,1637,,0,0.991,0.999,2,12,"NZ_CAKNBT010000098.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",5108,6744,M1428 D2 M207
+10,ISPst8,,predicted,insertion sequence,905,,0.0,0.784,0.988,6,190,"NZ_CAKNBT010000100.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",4754,5658,M64 I1 M3 D1 M116 I1 M3 D1 M693 I1 M5 D1 M18
+11,IS6100,IS6100L;IS6100R,predicted,insertion sequence,880,,0,1.0,1.0,0,0,"NZ_CAKNBT010000121.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",3670,4549,M880
+12,ISPa16,,predicted,insertion sequence,1192,,0,0.972,1.0,0,33,"NZ_CAKNBT010000122.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",3170,4361,M1192
+13,ISCte7,,predicted,insertion sequence,873,,0,0.815,0.982,16,148,"NZ_CAKNBT010000128.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",686,1558,M475 I1 M103 I1 M1 I2 M3 I3 M2 I2 M5 I1 M1 I1 M9 I1 M3 D1 M31 I1 M5 D1 M217 I1 M16
+14,Tn6196,,predicted,unit transposon,3513,,0,0.826,0.954,34,582,"NZ_CAKNBT010000129.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",41,3553,M84 D1 M442 I1 M5 D1 M104 D3 M443 I1 M4 D1 M120 I1 M5 D1 M463 I1 M3 D1 M74 D1 M6 I1 M216 I1 M2 D1 M306 I3 M185 D1 M4 I1 M180 D1 M2 I1 M148 D1 M4 I1 M245 I1 M2 I2 M393 D1 M2 D1 M4 I2 M14 D1 M8 I1 M29
+15,ISPsko1,,predicted,insertion sequence,2355,,0,0.913,0.983,6,200,"NZ_CAKNBT010000139.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",1,2355,M1196 D1 M2 D2 M1090 D3 M61
+16,ISPsy14,,predicted,insertion sequence,2621,,0,0.878,0.99,23,296,"NZ_CAKNBT010000140.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",1,2621,M40 N25 M1513 I1 M2 D1 M689 I1 M1 I1 M5 D2 M5 D1 M3 I1 M14 D1 M6 D1 M4 I1 M1 I1 M14 D1 M6 I1 M166 D1 M11 I2 M8 D2 M56 I1 M1 I1 M3 D1 M1 D1 M35
+17,ISPsy35,,predicted,insertion sequence,1620,,0.0,0.72,0.903,73,390,"NZ_CAKNBT010000154.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",24,1643,M25 D1 M2 D1 M10 D1 M8 I1 M24 D1 M6 I1 M31 I1 M36 I1 M6 D1 M2 D1 M3 D1 M9 D2 M53 D1 M1 D1 M1 D2 M1 D1 M2 D1 M108 I1 M3 D1 M82 I1 M1 I1 M9 D1 M2 D1 M110 I1 M1 I1 M5 D1 M1 D1 M128 I3 M5 I2 M6 I1 M2 I1 M5 D1 M1 D2 M13 D3 M1 D1 M135 I1 M1 I1 M2 D1 M1 D1 M16 I1 M4 D1 M110 I1 M2 D1 M55 I1 M5 D1 M13 D1 M6 D1 M6 I1 M1 I1 M7 I1 M1 I1 M10 D2 M22 D1 M4 I1 M32 D1 M5 D1 M3 I2 M179 D1 M3 I1 M62 I1 M3 D1 M132 I1 M5 D1 M50
+18,ISPpu22,,predicted,insertion sequence,1232,,0,0.925,1.0,0,93,"NZ_CAKNBT010000162.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",1,1232,M1232
+19,ISPpu1,,predicted,insertion sequence,1125,,0,0.791,0.963,4,231,"NZ_CAKNBT010000165.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",6,1130,M21 D1 M5 I1 M39 D1 M3 I1 M1055
+20,ISPa41,ISPsy10,predicted,insertion sequence,1163,,0,0.993,0.996,5,3,"NZ_CAKNBT010000166.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence",1,1163,M295 I5 M868

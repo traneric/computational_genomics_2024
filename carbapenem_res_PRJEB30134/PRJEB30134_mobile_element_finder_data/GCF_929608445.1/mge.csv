@@ -1,0 +1,29 @@
+#date: 2024-05-19_21:54
+#sample: GCF_929608445.1_cpe088_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,MITEYpe1,,predicted,mite,123,,0.0,0.855,0.984,2,16,"NZ_CAKNCC010000003.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",343252,343374,M35 I1 M2 D1 M85
+2,MITEYpe1,,predicted,mite,123,,0.0,0.789,1.0,0,26,"NZ_CAKNCC010000004.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",342522,342644,M123
+3,MITEYpe1,,predicted,mite,117,,0.0,0.771,0.935,2,25,"NZ_CAKNCC010000004.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",118141,118257,M33 I1 M2 D1 M81
+4,ISCfr6,,predicted,insertion sequence,1252,,0,0.864,0.995,6,165,"NZ_CAKNCC010000005.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",155385,156636,M240 I1 M90 I1 M267 I1 M319 I1 M233 I1 M23 I1 M80
+5,MITEYpe1,,predicted,mite,123,,0.0,0.839,0.984,2,18,"NZ_CAKNCC010000005.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",99128,99250,M85 I1 M2 D1 M35
+6,MITEYpe1,,predicted,mite,123,,0.0,0.854,1.0,0,18,"NZ_CAKNCC010000008.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",53727,53849,M123
+7,MITEEc1,,predicted,mite,123,,0.0,0.81,0.951,6,18,"NZ_CAKNCC010000010.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",40288,40410,M22 I1 M2 D1 M56 I1 M1 I1 M3 D2 M36
+8,ISEch12,,predicted,insertion sequence,1211,,0,0.963,1.0,0,45,"NZ_CAKNCC010000018.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",38189,39399,M1211
+9,ISEam1,ISEch10,predicted,insertion sequence,1230,,0,0.895,1.0,0,129,"NZ_CAKNCC010000018.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",29025,30254,M1230
+10,ISCfr14,,predicted,insertion sequence,2440,,0,0.903,0.999,2,234,"NZ_CAKNCC010000019.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",27672,30111,M33 I1 M2341 I1 M66
+11,ISKpn2,,predicted,insertion sequence,1307,,0,0.979,0.999,1,26,"NZ_CAKNCC010000019.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",42858,44164,M170 D1 M1136
+12,MITEPlu5,,predicted,mite,118,,0.0,0.769,0.959,3,25,"NZ_CAKNCC010000023.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",225,342,M75 I1 M7 I2 M36
+13,ISSen4,IS1222SC;ISEc34,predicted,insertion sequence,1221,,0,0.966,0.998,2,40,"NZ_CAKNCC010000024.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",25258,26478,M1205 D1 M2 I1 M13
+14,ISEhe3,,predicted,insertion sequence,1231,,0,0.958,0.997,4,48,"NZ_CAKNCC010000024.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",26549,27779,M49 I1 M325 D1 M452 D2 M402
+15,ISEc33,,predicted,insertion sequence,1153,,0,0.991,1.0,0,10,"NZ_CAKNCC010000026.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",12612,13764,M1153
+16,ISEcl10,,predicted,insertion sequence,1198,,0.0,0.768,0.981,14,266,"NZ_CAKNCC010000026.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",25918,27115,M31 D1 M5 I1 M576 D1 M1 D1 M6 I1 M1 I1 M108 I1 M2 D1 M74 D1 M3 D1 M4 I2 M5 I1 M2 D1 M373
+17,ISKqu3,,predicted,insertion sequence,1421,,0,0.974,0.994,6,31,"NZ_CAKNCC010000028.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",157,1577,M12 D1 M30 D1 M1 D1 M6 I2 M60 I1 M1309
+18,ISErsp1,,predicted,insertion sequence,1190,,0,0.802,0.986,17,221,"NZ_CAKNCC010000028.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",26943,28132,M234 I8 M1 I1 M1 I1 M4 I1 M398 I1 M3 D1 M26 D1 M2 I1 M488 D1 M4 I1 M26
+19,IS102,,predicted,insertion sequence,1056,,0,0.924,0.999,1,79,"NZ_CAKNCC010000030.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",3978,5033,M77 I1 M979
+20,ISPlge3,,predicted,insertion sequence,1413,,0,0.921,0.98,0,112,"NZ_CAKNCC010000038.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",2278,3690,M1413
+21,ISCfr13,,predicted,insertion sequence,1516,,0,0.992,0.994,0,12,"NZ_CAKNCC010000049.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",2,1517,M1516
+22,ISSen9,,predicted,insertion sequence,713,,0,0.921,0.926,1,55,"NZ_CAKNCC010000058.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",1,713,M298 I1 M304 N2 M109
+15_14,cn_27779_ISEhe3,,putative,composite transposon,27779,,0,0.958,0.997,4,48,"NZ_CAKNCC010000024.1 Klebsiella oxytoca strain cpe088, whole genome shotgun sequence",0,27779,

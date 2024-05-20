@@ -1,0 +1,17 @@
+#date: 2024-05-19_23:09
+#sample: GCF_929618905.1_cpe019_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,ISPa32,,predicted,insertion sequence,1234,,0,0.854,0.995,6,175,"NZ_CAKNEJ010000002.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",827797,829030,M911 I1 M213 I1 M3 D1 M35 I1 M3 D1 M60 I1 M7
+2,ICE(Tn4371)6041,,predicted,ice,48572,,0,0.991,0.994,47,367,"NZ_CAKNEJ010000005.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",111050,159621,M1129 I1 M69 I1 M11304 N43 M9651 D1 M11 D4 M2 D2 M11 D6 M1 D1 M1 D1 M8 D14 M2432 D1 M7799 D2 M2 D1 M4984 I1 M2691 D1 M2801 D1 M5 D1 M9 D1 M1 D1 M32 D1 M2 D1 M2 D1 M5 D1 M4 N203 M1190 I1 M2142 D1 M1995
+3,ISPa32,,predicted,insertion sequence,1236,,0,0.988,1.0,0,15,"NZ_CAKNEJ010000006.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",6348,7583,M1236
+4,IS222,,predicted,insertion sequence,1236,,0,0.974,1.0,0,32,"NZ_CAKNEJ010000006.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",312958,314193,M1236
+5,IS222,,predicted,insertion sequence,1236,,0,0.978,1.0,0,27,"NZ_CAKNEJ010000006.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",234059,235294,M1236
+6,ISPsp7,,predicted,insertion sequence,1113,,0,0.987,1.0,0,15,"NZ_CAKNEJ010000008.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",259915,261027,M1113
+7,ISPa6,IS-PA-6,predicted,insertion sequence,1302,,0,0.947,0.957,27,43,"NZ_CAKNEJ010000009.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",236468,237769,M9 D2 M63 I1 M1 I1 M4 I1 M1 I3 M1 I3 M49 D5 M67 I1 M1 I1 M66 D1 M29 D1 M531 D1 M10 D1 M62 D1 M14 I1 M93 D1 M8 D1 M40 D1 M238
+8,IS6100,IS6100L;IS6100R,predicted,insertion sequence,880,,0,1.0,1.0,0,0,"NZ_CAKNEJ010000010.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",2863,3742,M880
+9,ISPa7,,predicted,insertion sequence,1669,,0,1.0,1.0,0,0,"NZ_CAKNEJ010000033.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",1260,2928,M1669
+2_1,cn_36465_ISPa32,,putative,composite transposon,36465,,0,0.854,0.995,6,175,"NZ_CAKNEJ010000002.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",827796,864261,
+6_4,cn_2192_IS222,,putative,composite transposon,2192,,0,0.974,1.0,0,32,"NZ_CAKNEJ010000006.1 Pseudomonas aeruginosa strain cpe019, whole genome shotgun sequence",312001,314193,

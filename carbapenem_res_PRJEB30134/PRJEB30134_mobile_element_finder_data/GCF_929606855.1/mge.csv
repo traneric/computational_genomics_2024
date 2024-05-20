@@ -1,0 +1,8 @@
+#date: 2024-05-19_21:48
+#sample: GCF_929606855.1_cpe048_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,Tn6022,AbaR4,predicted,unit transposon,11387,,0,0.973,0.943,19,289,"NZ_CAKNBR010000002.1 Acinetobacter baumannii strain cpe048, whole genome shotgun sequence",876390,887776,M2189 I1 M1501 D2 M179 D1 M4 I1 M58 I1 M6 D1 M29 I1 M8 D1 M178 I2 M8 D1 M1 D1 M4 D1 M3 D2 M6 I3 M718 N-6 M421 N56 M6014
+2,ISAba26,,predicted,insertion sequence,1318,,0,1.0,1.0,0,0,"NZ_CAKNBR010000010.1 Acinetobacter baumannii strain cpe048, whole genome shotgun sequence",32565,33882,M1318

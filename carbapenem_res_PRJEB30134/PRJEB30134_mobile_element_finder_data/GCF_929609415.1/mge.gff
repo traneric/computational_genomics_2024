@@ -1,0 +1,106 @@
+##gff-version 3
+NZ_CAKNCJ010000001.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	754949	756005	.	-	.	Alias=None;Gap=M1057;ID=MGE1;Name=IS102;other=
+NZ_CAKNCJ010000001.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	754949	754966	.	-	.	Parent=MGE1
+NZ_CAKNCJ010000001.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	755988	756005	.	+	.	Parent=MGE1
+NZ_CAKNCJ010000001.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	mite	948650	948771	.	-	.	Alias=None;Gap=M28 D1 M4 I1 M12 I1 M77;ID=MGE2;Name=MITEEc1;other=
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	46109	47444	.	-	.	Alias=None;Gap=M1336;ID=MGE3;Name=ISEcl1;other=
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	46109	46138	.	-	.	Parent=MGE3
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	46201	46569	.	-	.	Parent=MGE3;name=transposase
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	46488	47408	.	-	.	Parent=MGE3;name=transposase
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	46201	47408	.	-	.	Parent=MGE3;name=transposase
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	47398	47444	.	+	.	Parent=MGE3
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	26964	28183	.	-	.	Alias=IS1222SC;Gap=M263 I1 M957;ID=MGE4;Name=ISSen4;other=
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	36800	37856	.	+	.	Alias=IS602;Gap=M1057;ID=MGE5;Name=IS903;other=
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	36800	36817	.	+	.	Parent=MGE5
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	36878	37801	.	+	.	Parent=MGE5;name=transposase
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	37839	37856	.	-	.	Parent=MGE5
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	4209	5600	.	-	.	Alias=None;Gap=M216 I2 M6 D1 M4 D1 M61 I1 M3 D1 M316 I1 M5 D1 M9 I1 M2 D1 M17 D1 M4 I1 M49 I1 M7 D1 M686;ID=MGE6;Name=ISPlge3;other=
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	45243	46010	.	-	.	Alias=None;Gap=M768;ID=MGE7;Name=ISSen9;other=
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	45244	45292	.	-	.	Parent=MGE7
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	45300	45574	.	-	.	Parent=MGE7;name=transposase
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	45473	45996	.	-	.	Parent=MGE7;name=transposase
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	45300	45996	.	-	.	Parent=MGE7;name=transposase
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	45962	46010	.	-	.	Parent=MGE7
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	25468	26233	.	+	.	Alias=None;Gap=M459 I1 M1 I1 M306;ID=MGE8;Name=ISSen9;other=
+NZ_CAKNCJ010000003.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	84140	85349	.	-	.	Alias=None;Gap=M879 I1 M331;ID=MGE9;Name=ISKpn54;other=
+NZ_CAKNCJ010000003.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	381421	382477	.	+	.	Alias=None;Gap=M1057;ID=MGE10;Name=IS102;other=
+NZ_CAKNCJ010000003.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	381421	381438	.	+	.	Parent=MGE10
+NZ_CAKNCJ010000003.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	382460	382477	.	-	.	Parent=MGE10
+NZ_CAKNCJ010000004.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	mite	322681	322803	.	+	.	Alias=None;Gap=M35 I1 M2 D1 M85;ID=MGE11;Name=MITEYpe1;other=
+NZ_CAKNCJ010000007.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	135911	137237	.	-	.	Alias=None;Gap=M1327;ID=MGE12;Name=IS5075;other=
+NZ_CAKNCJ010000007.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	137226	137237	.	+	.	Parent=MGE12
+NZ_CAKNCJ010000007.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	136167	137171	.	+	.	Parent=MGE12;name=transposase
+NZ_CAKNCJ010000007.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	135911	135922	.	-	.	Parent=MGE12
+NZ_CAKNCJ010000008.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	1	2278	.	-	.	Alias=ISKpW;Gap=M2278;ID=MGE13;Name=ISKpn21;other=
+NZ_CAKNCJ010000008.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	1	25	.	-	.	Parent=MGE13
+NZ_CAKNCJ010000008.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	99	1502	.	-	.	Parent=MGE13;name=transposase
+NZ_CAKNCJ010000008.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	1532	2174	.	+	.	Parent=MGE13;name=passenger gene
+NZ_CAKNCJ010000008.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	2254	2278	.	+	.	Parent=MGE13
+NZ_CAKNCJ010000009.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	mite	169752	169862	.	-	.	Alias=None;Gap=M111;ID=MGE14;Name=MITEPlu5;other=
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	102429	103656	.	-	.	Alias=ISEch10;Gap=M131 I2 M184 D1 M3 I1 M909;ID=MGE15;Name=ISEam1;other=
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	172028	173123	.	+	.	Alias=None;Gap=M1096;ID=MGE16;Name=ISKpn28;other=
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	172029	172077	.	+	.	Parent=MGE16
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	172088	173124	.	+	.	Parent=MGE16;name=transposase
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	173075	173123	.	+	.	Parent=MGE16
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	98636	99403	.	+	.	Alias=None;Gap=M768;ID=MGE17;Name=ISSen9;other=
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	98637	98685	.	+	.	Parent=MGE17
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	98693	98967	.	+	.	Parent=MGE17;name=transposase
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	98866	99389	.	+	.	Parent=MGE17;name=transposase
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	98693	99389	.	+	.	Parent=MGE17;name=transposase
+NZ_CAKNCJ010000012.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	99355	99403	.	+	.	Parent=MGE17
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	14370	22523	.	-	.	Alias=None;Gap=M8154;ID=MGE18;Name=ISKpn25;other=
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	14371	14419	.	-	.	Parent=MGE18
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	14478	16531	.	-	.	Parent=MGE18;name=passenger gene
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	16529	17844	.	-	.	Parent=MGE18;name=passenger gene
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	17846	21102	.	-	.	Parent=MGE18;name=passenger gene
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	21108	22375	.	-	.	Parent=MGE18;name=transposase
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	22475	22523	.	-	.	Parent=MGE18
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	42436	43878	.	+	.	Alias=None;Gap=M1443;ID=MGE19;Name=ISKpn8;other=
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	42437	42485	.	+	.	Parent=MGE19
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	42485	43005	.	+	.	Parent=MGE19;name=transposase
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	42949	43853	.	+	.	Parent=MGE19;name=transposase
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	42485	43853	.	+	.	Parent=MGE19;name=transposase
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	43830	43878	.	+	.	Parent=MGE19
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	7426	8193	.	-	.	Alias=None;Gap=M768;ID=MGE20;Name=ISKpn14;other=
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	7427	7475	.	-	.	Parent=MGE20
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	7483	7757	.	-	.	Parent=MGE20;name=transposase
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	7656	8179	.	-	.	Parent=MGE20;name=transposase
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	7483	8179	.	-	.	Parent=MGE20;name=transposase
+NZ_CAKNCJ010000015.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	8145	8193	.	-	.	Parent=MGE20
+NZ_CAKNCJ010000016.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	47870	49067	.	-	.	Alias=None;Gap=M373 D1 M2 I1 M5 I2 M4 D1 M3 D1 M74 D1 M2 I1 M108 I1 M1 I1 M6 D1 M1 D1 M576 I1 M5 D1 M31;ID=MGE21;Name=ISEcl10;other=
+NZ_CAKNCJ010000017.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	mite	22214	22330	.	+	.	Alias=None;Gap=M31 I1 M3 D1 M39 I1 M43;ID=MGE22;Name=MITEYpe1;other=
+NZ_CAKNCJ010000023.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	23183	24902	.	-	.	Alias=None;Gap=M46 D1 M4 I1 M160 I1 M5 D1 M8 D1 M3 I1 M3 D1 M2 D1 M2 I2 M5 I1 M4 D1 M93 I1 M4 D1 M27 I1 M3 D1 M59 D2 M5 I1 M1 I1 M13 D2 M4 I1 M1 I1 M97 I1 M7 D1 M164 D1 M1 D1 M3 I1 M1 I1 M70 D1 M1 D2 M1 D1 M3 I1 M20 I2 M2 I1 M7 D1 M323 D2 M18 I1 M2 I1 M7 I1 M4 D1 M30 I1 M3 D1 M75 I1 M3 I1 M2 D1 M3 D1 M395;ID=MGE23;Name=ISEc38;other=
+NZ_CAKNCJ010000027.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	17272	19794	.	+	.	Alias=None;Gap=M2523;ID=MGE24;Name=ISKox1;other=
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	7512	10362	.	+	.	Alias=None;Gap=M2851;ID=MGE25;Name=ISKpn19;other=
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	7512	7533	.	+	.	Parent=MGE25
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	7605	8195	.	+	.	Parent=MGE25;name=passenger gene
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	8332	8904	.	+	.	Parent=MGE25;name=passenger gene
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	8935	10332	.	+	.	Parent=MGE25;name=transposase
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	10337	10362	.	-	.	Parent=MGE25
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	17332	18987	.	-	.	Alias=ISEcp1;Gap=M1656;ID=MGE26;Name=ISEc9;other=
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	17332	17344	.	-	.	Parent=MGE26
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	17519	18781	.	-	.	Parent=MGE26;name=transposase
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	18966	18987	.	+	.	Parent=MGE26
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	4216	5368	.	-	.	Alias=None;Gap=M1153;ID=MGE27;Name=ISEc33;other=
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	4216	4230	.	-	.	Parent=MGE27
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	4318	5349	.	-	.	Parent=MGE27;name=transposase
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	5352	5368	.	+	.	Parent=MGE27
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	5369	6356	.	-	.	Alias=None;Gap=M988;ID=MGE28;Name=ISAba125;other=
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	1	820	.	-	.	Alias=IS46;Gap=M820;ID=MGE29;Name=IS26;other=
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	1	14	.	-	.	Parent=MGE29
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	65	769	.	-	.	Parent=MGE29;name=transposase
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	807	820	.	+	.	Parent=MGE29
+NZ_CAKNCJ010000033.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	1	1445	.	-	.	Alias=None;Gap=M1445;ID=MGE30;Name=ISKpn1;other=
+NZ_CAKNCJ010000033.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	1	22	.	-	.	Parent=MGE30
+NZ_CAKNCJ010000033.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	51	572	.	-	.	Parent=MGE30;name=transposase
+NZ_CAKNCJ010000033.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	449	1414	.	-	.	Parent=MGE30;name=transposase
+NZ_CAKNCJ010000033.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	51	1414	.	-	.	Parent=MGE30;name=transposase
+NZ_CAKNCJ010000033.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	1422	1445	.	+	.	Parent=MGE30
+NZ_CAKNCJ010000036.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	insertion_sequence	3362	4241	.	-	.	Alias=IS6100L;Gap=M880;ID=MGE31;Name=IS6100;other=
+NZ_CAKNCJ010000036.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irl	3362	3375	.	-	.	Parent=MGE31
+NZ_CAKNCJ010000036.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	gene	3424	4188	.	-	.	Parent=MGE31;name=transposase
+NZ_CAKNCJ010000036.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	irr	4228	4241	.	+	.	Parent=MGE31
+NZ_CAKNCJ010000002.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	composite_transposon	25467	46010	.	+	.	Alias=None;Gap=None;ID=MGE32;Name=cn_20543_ISSen9;other=
+NZ_CAKNCJ010000003.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	composite_transposon	381420	383312	.	+	.	Alias=None;Gap=None;ID=MGE33;Name=cn_1892_IS102;other=
+NZ_CAKNCJ010000016.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	composite_transposon	47869	55829	.	-	.	Alias=None;Gap=None;ID=MGE34;Name=cn_7960_ISEcl10;other=
+NZ_CAKNCJ010000028.1 Klebsiella pneumoniae strain cpe013, whole genome shotgun sequence	mge_finder	composite_transposon	4114	6356	.	-	.	Alias=None;Gap=None;ID=MGE35;Name=cn_2242_ISAba125;other=

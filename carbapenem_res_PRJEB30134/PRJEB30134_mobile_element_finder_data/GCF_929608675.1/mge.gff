@@ -1,0 +1,95 @@
+##gff-version 3
+NZ_CAKNCD010000001.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	mite	38630	38752	.	-	.	Alias=None;Gap=M123;ID=MGE1;Name=MITEEc1;other=
+NZ_CAKNCD010000001.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	38631	38679	.	-	.	Parent=MGE1
+NZ_CAKNCD010000001.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	38704	38752	.	-	.	Parent=MGE1
+NZ_CAKNCD010000001.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	mite	295569	295687	.	-	.	Alias=None;Gap=M119;ID=MGE2;Name=MITEEc1;other=
+NZ_CAKNCD010000002.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	130254	131996	.	+	.	Alias=None;Gap=M373 I5 M1370;ID=MGE3;Name=IS609;other=
+NZ_CAKNCD010000004.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	240125	241220	.	-	.	Alias=None;Gap=M120 I1 M3 D1 M421 I1 M4 D1 M119 I2 M5 D1 M1 D1 M130 D1 M6 I1 M200 I1 M1 I1 M3 I1 M2 D1 M1 D2 M30 I1 M8 D1 M33;ID=MGE4;Name=ISKpn28;other=
+NZ_CAKNCD010000006.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	38309	40889	.	+	.	Alias=None;Gap=M2581;ID=MGE5;Name=ISEc12;other=
+NZ_CAKNCD010000006.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	38310	38358	.	+	.	Parent=MGE5
+NZ_CAKNCD010000006.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	38504	40044	.	+	.	Parent=MGE5;name=transposase
+NZ_CAKNCD010000006.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	40057	40805	.	+	.	Parent=MGE5;name=accessory gene
+NZ_CAKNCD010000006.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	40841	40889	.	+	.	Parent=MGE5
+NZ_CAKNCD010000006.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	74505	76247	.	-	.	Alias=None;Gap=M1370 I5 M373;ID=MGE6;Name=IS609;other=
+NZ_CAKNCD010000007.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	144613	145903	.	+	.	Alias=ISEc6;Gap=M1291;ID=MGE7;Name=ISEc1;other=
+NZ_CAKNCD010000007.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	144613	144626	.	+	.	Parent=MGE7
+NZ_CAKNCD010000007.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	144758	145894	.	+	.	Parent=MGE7;name=transposase
+NZ_CAKNCD010000007.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	145886	145903	.	-	.	Parent=MGE7
+NZ_CAKNCD010000007.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	mite	131767	131889	.	+	.	Alias=None;Gap=M123;ID=MGE8;Name=MITEEc1;other=
+NZ_CAKNCD010000007.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	131768	131816	.	+	.	Parent=MGE8
+NZ_CAKNCD010000007.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	131841	131889	.	+	.	Parent=MGE8
+NZ_CAKNCD010000012.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	mite	64047	64161	.	+	.	Alias=None;Gap=M115;ID=MGE9;Name=MITEYpe1;other=
+NZ_CAKNCD010000013.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	mite	54103	54223	.	+	.	Alias=None;Gap=M121;ID=MGE10;Name=MITEEc1;other=
+NZ_CAKNCD010000014.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	23776	25106	.	-	.	Alias=IS4521L;Gap=M1331;ID=MGE11;Name=IS2;other=
+NZ_CAKNCD010000014.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	23777	23825	.	-	.	Parent=MGE11
+NZ_CAKNCD010000014.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	23869	24233	.	-	.	Parent=MGE11;name=transposase
+NZ_CAKNCD010000014.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	24174	25096	.	-	.	Parent=MGE11;name=transposase
+NZ_CAKNCD010000014.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	23869	25096	.	-	.	Parent=MGE11;name=transposase
+NZ_CAKNCD010000014.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	25058	25106	.	-	.	Parent=MGE11
+NZ_CAKNCD010000015.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	28325	29090	.	+	.	Alias=None;Gap=M766;ID=MGE12;Name=ISEc30;other=
+NZ_CAKNCD010000015.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	28326	28374	.	+	.	Parent=MGE12
+NZ_CAKNCD010000015.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	28384	28655	.	+	.	Parent=MGE12;name=transposase
+NZ_CAKNCD010000015.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	28614	29077	.	+	.	Parent=MGE12;name=transposase
+NZ_CAKNCD010000015.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	28384	29077	.	+	.	Parent=MGE12;name=transposase
+NZ_CAKNCD010000015.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	29042	29090	.	+	.	Parent=MGE12
+NZ_CAKNCD010000016.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	mite	33434	33548	.	-	.	Alias=None;Gap=M40 D1 M4 I1 M21 I1 M5 D1 M43;ID=MGE13;Name=MITEYpe1;other=
+NZ_CAKNCD010000017.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	106521	107813	.	-	.	Alias=None;Gap=M85 D1 M21 I1 M524 I1 M5 D1 M237 D2 M1 D1 M10 I1 M1 I2 M40 D1 M3 I1 M3 D1 M4 I1 M268 I1 M26 I1 M58;ID=MGE14;Name=ISCro4;other=
+NZ_CAKNCD010000018.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	812	2121	.	+	.	Alias=IS3411L;Gap=M1310;ID=MGE15;Name=IS3411;other=
+NZ_CAKNCD010000018.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	813	861	.	+	.	Parent=MGE15
+NZ_CAKNCD010000018.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	868	1193	.	+	.	Parent=MGE15;name=transposase
+NZ_CAKNCD010000018.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	868	1193	.	+	.	Parent=MGE15;name=transposase
+NZ_CAKNCD010000018.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	868	2038	.	+	.	Parent=MGE15;name=transposase
+NZ_CAKNCD010000018.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	2073	2121	.	+	.	Parent=MGE15
+NZ_CAKNCD010000026.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	mite	54479	54595	.	+	.	Alias=None;Gap=M60 I1 M2 D1 M54;ID=MGE16;Name=MITEYpe1;other=
+NZ_CAKNCD010000029.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	34521	35287	.	-	.	Alias=None;Gap=M536 I1 M231;ID=MGE17;Name=ISSen9;other=
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	unit_transposon	29904	43970	.	-	.	Alias=TnC;Gap=M14067;ID=MGE18;Name=Tn7;other=
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	29904	29916	.	-	.	Parent=MGE18
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	32150	32623	.	-	.	Parent=MGE18;name=dhfrI
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	32718	33242	.	-	.	Parent=MGE18;name=sat
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	33300	34088	.	-	.	Parent=MGE18;name=aadA
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	34164	34661	.	-	.	Parent=MGE18;name=ybeA
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	34722	35093	.	-	.	Parent=MGE18;name=ybfA
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	35126	35449	.	-	.	Parent=MGE18;name=ybfB
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	35503	35880	.	-	.	Parent=MGE18;name=ybgA
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	36111	37727	.	+	.	Parent=MGE18;name=tnsE
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	37728	39254	.	+	.	Parent=MGE18;name=tnsD
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	39257	40924	.	+	.	Parent=MGE18;name=tnsC
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	40921	43029	.	+	.	Parent=MGE18;name=tnsB
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	43016	43837	.	+	.	Parent=MGE18;name=tnsA
+NZ_CAKNCD010000031.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	43958	43970	.	+	.	Parent=MGE18
+NZ_CAKNCD010000032.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	407	1694	.	+	.	Alias=ISEc6;Gap=M141 I1 M1147;ID=MGE19;Name=ISEc1;other=
+NZ_CAKNCD010000033.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	23496	25784	.	-	.	Alias=None;Gap=M224 N-5 M2070;ID=MGE20;Name=ISEc8;other=
+NZ_CAKNCD010000033.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	4925	6171	.	-	.	Alias=None;Gap=M475 N25 M429 I17 M318;ID=MGE21;Name=ISSfl10;other=
+NZ_CAKNCD010000033.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	10330	11571	.	+	.	Alias=ISSHO1;Gap=M75 I1 M247 I1 M601 I1 M282 I1 M37;ID=MGE22;Name=IS911;other=
+NZ_CAKNCD010000033.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	1	1227	.	+	.	Alias=None;Gap=M702 N1 M524;ID=MGE23;Name=IS3;other=
+NZ_CAKNCD010000047.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	3636	6068	.	+	.	Alias=None;Gap=M2384 I4 M49;ID=MGE24;Name=ISEc78;other=
+NZ_CAKNCD010000047.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	11253	12974	.	+	.	Alias=None;Gap=M1722;ID=MGE25;Name=ISEc38;other=
+NZ_CAKNCD010000047.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	11254	11302	.	+	.	Parent=MGE25
+NZ_CAKNCD010000047.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	11329	12947	.	+	.	Parent=MGE25;name=transposase
+NZ_CAKNCD010000047.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	12926	12974	.	+	.	Parent=MGE25
+NZ_CAKNCD010000052.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	9817	10636	.	-	.	Alias=IS46;Gap=M820;ID=MGE26;Name=IS26;other=
+NZ_CAKNCD010000052.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	9817	9830	.	-	.	Parent=MGE26
+NZ_CAKNCD010000052.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	9881	10585	.	-	.	Parent=MGE26;name=transposase
+NZ_CAKNCD010000052.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	10623	10636	.	+	.	Parent=MGE26
+NZ_CAKNCD010000053.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	7073	8324	.	+	.	Alias=None;Gap=M58 D1 M34 D1 M3 I1 M191 D1 M5 D1 M11 I2 M15 I1 M6 D1 M17 D1 M1 D1 M4 I2 M50 D1 M2 I1 M74 I1 M1 I1 M5 I1 M2 D1 M7 I1 M179 I1 M5 D1 M117 I1 M62 D1 M1 D1 M2 I2 M97 I1 M6 D1 M114 D1 M5 I1 M5 I1 M2 D1 M4 I1 M5 D1 M44 I1 M4 D1 M97;ID=MGE27;Name=ISVsa11;other=
+NZ_CAKNCD010000057.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	unit_transposon	962	4490	.	-	.	Alias=None;Gap=M67 D1 M2 D1 M4 I1 M3 I1 M348 I1 M5 D1 M104 D3 M143 I1 M3 D1 M93 D1 M3 I1 M22 D1 M3 I1 M173 I1 M4 D1 M119 I1 M6 D1 M541 D1 M4 I1 M218 I1 M2 D1 M306 I3 M185 D1 M4 I1 M581 I1 M2 I2 M393 D1 M2 I1 M18 D1 M7 I1 M148;ID=MGE28;Name=Tn6196;other=
+NZ_CAKNCD010000060.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	150	1022	.	+	.	Alias=IS6100L;Gap=M873;ID=MGE29;Name=IS6100;other=
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	771	1538	.	+	.	Alias=None;Gap=M768;ID=MGE30;Name=ISSen9;other=
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	772	820	.	+	.	Parent=MGE30
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	828	1102	.	+	.	Parent=MGE30;name=transposase
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	1001	1524	.	+	.	Parent=MGE30;name=transposase
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	828	1524	.	+	.	Parent=MGE30;name=transposase
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	1490	1538	.	+	.	Parent=MGE30
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	insertion_sequence	1	768	.	+	.	Alias=None;Gap=M768;ID=MGE31;Name=ISSen9;other=
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irl	2	50	.	+	.	Parent=MGE31
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	58	332	.	+	.	Parent=MGE31;name=transposase
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	231	754	.	+	.	Parent=MGE31;name=transposase
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	gene	58	754	.	+	.	Parent=MGE31;name=transposase
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	irr	720	768	.	+	.	Parent=MGE31
+NZ_CAKNCD010000006.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	composite_transposon	1940	40889	.	+	.	Alias=None;Gap=None;ID=MGE32;Name=cn_38949_ISEc12;other=
+NZ_CAKNCD010000017.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	composite_transposon	106520	108736	.	-	.	Alias=None;Gap=None;ID=MGE33;Name=cn_2216_ISCro4;other=
+NZ_CAKNCD010000029.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	composite_transposon	34520	56757	.	-	.	Alias=None;Gap=None;ID=MGE34;Name=cn_22237_ISSen9;other=
+NZ_CAKNCD010000033.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	composite_transposon	6171	25784	.	-	.	Alias=None;Gap=None;ID=MGE35;Name=cn_19613_ISEc8;other=
+NZ_CAKNCD010000033.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	composite_transposon	0	20587	.	+	.	Alias=None;Gap=None;ID=MGE36;Name=cn_20587_IS3;other=
+NZ_CAKNCD010000052.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	composite_transposon	0	10636	.	-	.	Alias=None;Gap=None;ID=MGE37;Name=cn_10636_IS26;other=
+NZ_CAKNCD010000068.1 Escherichia coli strain cpe082, whole genome shotgun sequence	mge_finder	composite_transposon	0	1538	.	+	.	Alias=None;Gap=None;ID=MGE38;Name=cn_1538_ISSen9;other=

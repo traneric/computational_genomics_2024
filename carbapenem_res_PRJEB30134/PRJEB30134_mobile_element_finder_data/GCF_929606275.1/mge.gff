@@ -1,0 +1,121 @@
+##gff-version 3
+NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	140309	141190	.	+	.	Alias=None;Gap=M882;ID=MGE1;Name=ISAba44;other=
+NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	140310	140358	.	+	.	Parent=MGE1
+NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	140344	140648	.	+	.	Parent=MGE1;name=transposase
+NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	140637	141190	.	+	.	Parent=MGE1;name=transposase
+NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	140344	141190	.	+	.	Parent=MGE1;name=transposase
+NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	141142	141190	.	+	.	Parent=MGE1
+NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	446	1275	.	-	.	Alias=None;Gap=M117 I1 M6 D1 M225 I1 M2 D1 M153 D1 M9 I1 M18 D1 M1 D1 M10 I2 M7 D1 M2 D1 M2 I2 M124 I1 M9 D1 M48 I1 M2 D1 M86;ID=MGE2;Name=ISAbe15;other=
+NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	127176	128484	.	-	.	Alias=None;Gap=M1309;ID=MGE3;Name=ISAba29;other=
+NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	127177	127225	.	-	.	Parent=MGE3
+NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	127228	127544	.	-	.	Parent=MGE3;name=transposase
+NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	127485	128446	.	-	.	Parent=MGE3;name=transposase
+NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	127228	128446	.	-	.	Parent=MGE3;name=transposase
+NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	128436	128484	.	-	.	Parent=MGE3
+NZ_CAKNBL010000006.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	62215	63097	.	-	.	Alias=None;Gap=M883;ID=MGE4;Name=ISAba27;other=
+NZ_CAKNBL010000006.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	62216	62264	.	-	.	Parent=MGE4
+NZ_CAKNBL010000006.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	62258	62655	.	-	.	Parent=MGE4;name=transposase
+NZ_CAKNBL010000006.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	62631	63079	.	-	.	Parent=MGE4;name=transposase
+NZ_CAKNBL010000006.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	62258	63079	.	-	.	Parent=MGE4;name=transposase
+NZ_CAKNBL010000006.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	63049	63097	.	-	.	Parent=MGE4
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	26004	27958	.	+	.	Alias=None;Gap=M1955;ID=MGE5;Name=ISAba8;other=
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	26005	26053	.	+	.	Parent=MGE5
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	26094	27112	.	+	.	Parent=MGE5;name=transposase
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	27113	27885	.	+	.	Parent=MGE5;name=accessory gene
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	27910	27958	.	+	.	Parent=MGE5
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	31179	32217	.	+	.	Alias=None;Gap=M1039;ID=MGE6;Name=ISAha3;other=
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	31179	31193	.	+	.	Parent=MGE6
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	31234	32166	.	+	.	Parent=MGE6;name=transposase
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	32202	32217	.	-	.	Parent=MGE6
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	11550	12812	.	-	.	Alias=None;Gap=M233 D2 M1 D1 M3 D2 M1 D2 M1 D3 M1 D4 M915 D1 M3 D1 M2 D2 M2 D1 M2 D3 M1 D4 M72;ID=MGE7;Name=ISAcsp3;other=
+NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	45291	46491	.	-	.	Alias=None;Gap=M291 D2 M1 D3 M3 D1 M4 D2 M5 D1 M1 D1 M1 D3 M1 D2 M130 D1 M13 I1 M165 I1 M10 D1 M146 I2 M5 D1 M6 D1 M13 I1 M3 D2 M3 I1 M80 I1 M5 D1 M293;ID=MGE8;Name=ISAca1;other=
+NZ_CAKNBL010000010.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	82649	83478	.	-	.	Alias=None;Gap=M117 I1 M6 D1 M225 I1 M2 D1 M153 D1 M9 I1 M18 D1 M1 D1 M10 I2 M7 D1 M2 D1 M2 I2 M124 I1 M9 D1 M48 I1 M2 D1 M86;ID=MGE9;Name=ISAbe15;other=
+NZ_CAKNBL010000017.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	1	1309	.	+	.	Alias=None;Gap=M1309;ID=MGE10;Name=ISAba63;other=
+NZ_CAKNBL010000017.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	2	50	.	+	.	Parent=MGE10
+NZ_CAKNBL010000017.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	53	369	.	+	.	Parent=MGE10;name=transposase
+NZ_CAKNBL010000017.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	322	1094	.	+	.	Parent=MGE10;name=transposase
+NZ_CAKNBL010000017.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	53	1094	.	+	.	Parent=MGE10;name=transposase
+NZ_CAKNBL010000017.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	1261	1309	.	+	.	Parent=MGE10
+NZ_CAKNBL010000021.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	49110	49896	.	-	.	Alias=None;Gap=M764 I1 M23;ID=MGE11;Name=ISAlw25;other=
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	5410	6611	.	-	.	Alias=None;Gap=M1202;ID=MGE12;Name=ISAba19;other=
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	45930	46968	.	+	.	Alias=None;Gap=M1039;ID=MGE13;Name=ISAba12;other=
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	45931	45979	.	+	.	Parent=MGE13
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	45986	46917	.	+	.	Parent=MGE13;name=transposase
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	46920	46968	.	+	.	Parent=MGE13
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	3190	4007	.	-	.	Alias=None;Gap=M50 I1 M489 D1 M2 I1 M276;ID=MGE14;Name=IS1006;other=
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	28548	31140	.	+	.	Alias=None;Gap=M57 I1 M2536;ID=MGE15;Name=ISAba17;other=
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	20247	22201	.	+	.	Alias=None;Gap=M1955;ID=MGE16;Name=ISAba8;other=
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	20248	20296	.	+	.	Parent=MGE16
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	20337	21355	.	+	.	Parent=MGE16;name=transposase
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	21356	22128	.	+	.	Parent=MGE16;name=accessory gene
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	22153	22201	.	+	.	Parent=MGE16
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	1040	2327	.	-	.	Alias=None;Gap=M1288;ID=MGE17;Name=ISAcsp5;other=
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	1040	1059	.	-	.	Parent=MGE17
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	1129	1434	.	-	.	Parent=MGE17;name=transposase
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	1383	2258	.	-	.	Parent=MGE17;name=transposase
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	1129	2258	.	-	.	Parent=MGE17;name=transposase
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	2301	2327	.	+	.	Parent=MGE17
+NZ_CAKNBL010000036.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	20393	21578	.	+	.	Alias=None;Gap=M1186;ID=MGE18;Name=ISAjo3;other=
+NZ_CAKNBL010000036.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	20394	20442	.	+	.	Parent=MGE18
+NZ_CAKNBL010000036.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	20466	20731	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNBL010000036.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	20681	21540	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNBL010000036.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	20466	21540	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNBL010000036.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	21530	21578	.	+	.	Parent=MGE18
+NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	8941	10209	.	-	.	Alias=None;Gap=M1269;ID=MGE19;Name=ISAbe18;other=
+NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	8942	8990	.	-	.	Parent=MGE19
+NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	9040	10190	.	-	.	Parent=MGE19;name=transposase
+NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	10161	10209	.	-	.	Parent=MGE19
+NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	29745	30783	.	-	.	Alias=ISN1;Gap=M1039;ID=MGE20;Name=ISAba13;other=
+NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	29745	29760	.	-	.	Parent=MGE20
+NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	29800	30732	.	-	.	Parent=MGE20;name=transposase
+NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	30768	30783	.	+	.	Parent=MGE20
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	4611	5844	.	+	.	Alias=None;Gap=M55 D1 M10 I1 M1 I2 M467 I1 M700;ID=MGE21;Name=ISAcsp3;other=
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	2378	3196	.	+	.	Alias=None;Gap=M819;ID=MGE22;Name=IS1006;other=
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	2378	2393	.	+	.	Parent=MGE22
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	2441	3145	.	+	.	Parent=MGE22;name=transposase
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	3181	3196	.	-	.	Parent=MGE22
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	20942	21760	.	-	.	Alias=IS1009;Gap=M690 I1 M129;ID=MGE23;Name=ISOur1;other=
+NZ_CAKNBL010000053.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	25535	26573	.	-	.	Alias=None;Gap=M1039;ID=MGE24;Name=ISAba40;other=
+NZ_CAKNBL010000053.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	25536	25584	.	-	.	Parent=MGE24
+NZ_CAKNBL010000053.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	25591	26522	.	-	.	Parent=MGE24;name=transposase
+NZ_CAKNBL010000053.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	26525	26573	.	-	.	Parent=MGE24
+NZ_CAKNBL010000056.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	25599	26434	.	+	.	Alias=None;Gap=M4 D1 M831;ID=MGE25;Name=ISAba31;other=
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	1942	3423	.	-	.	Alias=None;Gap=M1482;ID=MGE26;Name=ISAjo2;other=
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	1943	1991	.	-	.	Parent=MGE26
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	2051	3375	.	-	.	Parent=MGE26;name=transposase
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	3375	3423	.	-	.	Parent=MGE26
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	12890	14048	.	+	.	Alias=None;Gap=M1159;ID=MGE27;Name=ISAba33;other=
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	14593	15566	.	+	.	Alias=None;Gap=M974;ID=MGE28;Name=ISAba9;other=
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	14594	14642	.	+	.	Parent=MGE28
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	14678	15558	.	+	.	Parent=MGE28;name=transposase
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	15518	15566	.	+	.	Parent=MGE28
+NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	16882	17968	.	+	.	Alias=None;Gap=M1087;ID=MGE29;Name=ISAba125;other=
+NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	16882	16901	.	+	.	Parent=MGE29
+NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	16994	17962	.	+	.	Parent=MGE29;name=transposase
+NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	17943	17968	.	-	.	Parent=MGE29
+NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	19679	20718	.	+	.	Alias=None;Gap=M615 I1 M3 D1 M172 I1 M4 I1 M4 D2 M209 D1 M29;ID=MGE30;Name=ISAba12;other=
+NZ_CAKNBL010000059.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	1017	2334	.	+	.	Alias=None;Gap=M1318;ID=MGE31;Name=ISAba26;other=
+NZ_CAKNBL010000059.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	1018	1066	.	+	.	Parent=MGE31
+NZ_CAKNBL010000059.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	1094	2301	.	+	.	Parent=MGE31;name=transposase
+NZ_CAKNBL010000059.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	2286	2334	.	+	.	Parent=MGE31
+NZ_CAKNBL010000060.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	5820	7018	.	+	.	Alias=None;Gap=M6 I1 M36 I1 M530 D6 M3 D8 M2 D1 M144 D1 M3 I1 M459;ID=MGE32;Name=ISAca1;other=
+NZ_CAKNBL010000066.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	15378	16414	.	-	.	Alias=None;Gap=M971 I2 M42 I1 M4 D1 M19;ID=MGE33;Name=ISAba12;other=
+NZ_CAKNBL010000075.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	7832	8871	.	-	.	Alias=None;Gap=M1040;ID=MGE34;Name=ISAha2;other=
+NZ_CAKNBL010000075.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irl	7833	7881	.	-	.	Parent=MGE34
+NZ_CAKNBL010000075.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	gene	7888	8819	.	-	.	Parent=MGE34;name=transposase
+NZ_CAKNBL010000075.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	irr	8823	8871	.	-	.	Parent=MGE34
+NZ_CAKNBL010000108.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	insertion_sequence	351	1389	.	-	.	Alias=None;Gap=M16 D1 M18 I1 M230 D1 M5 I1 M768;ID=MGE35;Name=ISAha3;other=
+NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	127175	137242	.	-	.	Alias=None;Gap=None;ID=MGE36;Name=cn_10067_ISAba29;other=
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	4495	6611	.	-	.	Alias=None;Gap=None;ID=MGE37;Name=cn_2116_ISAba19;other=
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	151	46968	.	+	.	Alias=None;Gap=None;ID=MGE38;Name=cn_46817_ISAba12;other=
+NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	45929	47861	.	+	.	Alias=None;Gap=None;ID=MGE39;Name=cn_1932_ISAba12;other=
+NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	28080	31140	.	+	.	Alias=None;Gap=None;ID=MGE40;Name=cn_3060_ISAba17;other=
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	4610	6802	.	+	.	Alias=None;Gap=None;ID=MGE41;Name=cn_2192_ISAcsp3;other=
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	1748	3196	.	+	.	Alias=None;Gap=None;ID=MGE42;Name=cn_1448_IS1006;other=
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	2377	21760	.	+	.	Alias=None;Gap=None;ID=MGE43;Name=cn_19383_IS1006;other=
+NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	2377	21760	.	-	.	Alias=None;Gap=None;ID=MGE44;Name=cn_19383_ISOur1;other=
+NZ_CAKNBL010000053.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	0	26573	.	-	.	Alias=None;Gap=None;ID=MGE45;Name=cn_26573_ISAba40;other=
+NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	14592	25055	.	+	.	Alias=None;Gap=None;ID=MGE46;Name=cn_10463_ISAba9;other=
+NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	18856	20718	.	+	.	Alias=None;Gap=None;ID=MGE47;Name=cn_1862_ISAba12;other=
+NZ_CAKNBL010000059.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	230	2334	.	+	.	Alias=None;Gap=None;ID=MGE48;Name=cn_2104_ISAba26;other=
+NZ_CAKNBL010000108.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence	mge_finder	composite_transposon	15	1389	.	-	.	Alias=None;Gap=None;ID=MGE49;Name=cn_1374_ISAha3;other=

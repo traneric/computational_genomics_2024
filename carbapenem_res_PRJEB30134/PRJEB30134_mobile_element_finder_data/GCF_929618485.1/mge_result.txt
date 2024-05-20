@@ -1,0 +1,381 @@
+mgefinder Results
+
+Mobile element(s): cime,composite transposon,ice,ime,insertion sequence,mobile insertion cassette,mite,unit transposon
+
+***************************************************************************************************************
+cime
+*******************************************************************************************************************
+Mge name    Identity    Query / Template length    Num hsps      Contig    Position in contig    Accession number
+*******************************************************************************************************************
+-           -           -                          No hit found  -         -                     -
+===================================================================================================================
+
+***************************************************************************************************************
+composite transposon
+********************************************************************************************************************************************************************************************************
+Mge name            Identity  Query / Template length      Num hsps  Contig                                                                                     Position in contig    Accession number
+********************************************************************************************************************************************************************************************************
+cn_3836_ISAba1      0.997458  None / 3836                         1  NZ_CAKNEB010000001.1 Acinetobacter baumannii strain cpe044, whole genome shotgun sequence  237427..241263        AY758396
+cn_1724_ISAba125    0.99908   None / 1724                         1  NZ_CAKNEB010000016.1 Acinetobacter baumannii strain cpe044, whole genome shotgun sequence  55173..56897          AY751533
+cn_1710_ISAba125    0.99908   None / 1710                         1  NZ_CAKNEB010000016.1 Acinetobacter baumannii strain cpe044, whole genome shotgun sequence  55810..57520          AY751533
+cn_2604_IS26        1         None / 2604                         1  NZ_CAKNEB010000083.1 Acinetobacter baumannii strain cpe044, whole genome shotgun sequence  2005..4609            X00011
+========================================================================================================================================================================================================
+
+***************************************************************************************************************
+ice
+*******************************************************************************************************************
+Mge name    Identity    Query / Template length    Num hsps      Contig    Position in contig    Accession number
+*******************************************************************************************************************
+-           -           -                          No hit found  -         -                     -
+===================================================================================================================
+
+***************************************************************************************************************
+ime
+*******************************************************************************************************************
+Mge name    Identity    Query / Template length    Num hsps      Contig    Position in contig    Accession number
+*******************************************************************************************************************
+-           -           -                          No hit found  -         -                     -
+===================================================================================================================
+
+***************************************************************************************************************
+insertion sequence
+**************************************************************************************************************************************************************************************************
+Mge name      Identity  Query / Template length      Num hsps  Contig                                                                                     Position in contig    Accession number
+**************************************************************************************************************************************************************************************************
+ISAba1        0.997458  1180 / 1180                         1  NZ_CAKNEB010000001.1 Acinetobacter baumannii strain cpe044, whole genome shotgun sequence  237428..238607        AY758396
+ISAba125      0.99908   1087 / 1087                         1  NZ_CAKNEB010000016.1 Acinetobacter baumannii strain cpe044, whole genome shotgun sequence  55811..56897          AY751533
+ISAba26       0.996206  1318 / 1318                         1  NZ_CAKNEB010000056.1 Acinetobacter baumannii strain cpe044, whole genome shotgun sequence  1..1318               CP007712
+IS26          1         820 / 820                           1  NZ_CAKNEB010000083.1 Acinetobacter baumannii strain cpe044, whole genome shotgun sequence  2006..2825            X00011
+==================================================================================================================================================================================================
+
+***************************************************************************************************************
+mobile insertion cassette
+*******************************************************************************************************************
+Mge name    Identity    Query / Template length    Num hsps      Contig    Position in contig    Accession number
+*******************************************************************************************************************
+-           -           -                          No hit found  -         -                     -
+===================================================================================================================
+
+***************************************************************************************************************
+mite
+*******************************************************************************************************************
+Mge name    Identity    Query / Template length    Num hsps      Contig    Position in contig    Accession number
+*******************************************************************************************************************
+-           -           -                          No hit found  -         -                     -
+===================================================================================================================
+
+***************************************************************************************************************
+unit transposon
+*******************************************************************************************************************
+Mge name    Identity    Query / Template length    Num hsps      Contig    Position in contig    Accession number
+*******************************************************************************************************************
+-           -           -                          No hit found  -         -                     -
+===================================================================================================================
+
+
+Extended Output:
+
+# ISAba1, id=1, hsp 1
+subject:        CTCTGTACACGACAAATTTCACAGAACCCTTATCCTATCAGGGTTCTGCCTTCTTAAAAT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CTCTGTACACGACAAATTTCACAGAACCCTTATCCTATCAGGGTTCTGCCTTCTTAAAAT
+
+subject:        TGCCAAAATTTCCTTAAACTCTTCTTTTTTCCCAAAACCAATTAAACGCTGAATCGCCAT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TGCCAAAATTTCCTTAAACTCTTCTTTTTTCCCAAAACCAATTAAACGCTGAATCGCCAT
+
+subject:        TTGAACATAGTCTAAACCATAGCGAAATAAACTCATTGAGAGTCGTCCATGCTTCTTTAT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTGAACATAGTCTAAACCATAGCGAAATAAACTCATTGAGAGTCGTCCATGCTTCTTTAT
+
+subject:        TTTTATCGCTTTTTTTTGATCATGTTGCCATTCACCCGTTAAGTAACACCAACAGAAGCT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTTTATCGCttttttttGATCATGTTGCCATTCACCCGTTAAGTAACACCAACAGAAGCT
+
+subject:        TATAGCTAACACCGCAATCAATTTTTTCACTCGTCTAGGGTCTGTCAAGCGCGTATTTTC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TATAGCTAACACCGCAATCAATTTTTTCACTCGTCTAGGGTCTGTCAAGCGCGTATTTTC
+
+subject:        AAGATTAAACCCGCGTCCTTTGAGACAACTGAATAAGGTTTCAATTTCCCAGCGTAATGC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AAGATTAAACCCGCGTCCTTTGAGACAACTGAATAAGGTTTCAATTTCCCAGCGTAATGC
+
+subject:        ATAATCCTGAATAGCATTGGCATTAAACTGAGGAGAAACGACGAGTAAAAGCTCTCCATT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ATAATCCTGAATAGCATTGGCATTAAACTGAGGAGAAACGACGAGTAAAAGCTCTCCATT
+
+subject:        TTCTAACTGTAGTGCACTTATATATAGTTTCACCCGACCAACCAAAATCCGTCGTTTACG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTCTAACTGTAGTGCACTTATATATAGTTTCACCCGACCAACCAAAATCCGTCGTTTACG
+
+subject:        ACATTCAATTTGACCAACTTTAAGATGGCGAAATAAATCACTAATTTTATGATTCTTTCC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ACATTCAATTTGACCAACTTTAAGATGGCGAAATAAATCACTAATTTTATGATTCTTTCC
+
+subject:        TAAATGATTGGTGACAATGAAGTTTTTTTAACACGAATGCAGAAGTTGATGTCTTGTTCA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TAAATGATTGGTGACAATGAAGtttttttAACACGAATGCAGAAGTTGATGTCTTGTTCA
+
+subject:        ATTAACCATGTAAACCACTGCTCACCGATAAACTCTCTGTCTGCGAACACATTCACAATA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ATTAACCATGTAAACCACTGCTCACCGATAAACTCTCTGTCTGCGAACACATTCACAATA
+
+subject:        CGGTCTTTACCAAAAATGGCTATAAAGCGTTGAATCAAAGCAATACGCTCTTTCGTATCT
+                |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+query:          CGGTCTTTACCAAAAATGGCTATAAAGCGTTGAATCAAAGCAATNCGCTCTTTCGTATCT
+
+subject:        GAATTTCCACGTTTATTAAGCAATGTCCAAAGGATAGGTATCGCTATTCCACGATAAACG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GAATTTCCACGTTTATTAAGCAATGTCCAAAGGATAGGTATCGCTATTCCACGATAAACG
+
+subject:        ATTGCGAGCATCAGGATATTAATATTTCGTTTTCCCCATTTCCAATTGGTTCTATCTAAA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ATTGCGAGCATCAGGATATTAATATTTCGTTTTCCCCATTTCCAATTGGTTCTATCTAAA
+
+subject:        GTCAGTTGCACTTGGTCGAATGAAAACATATTGAAAATCAACTGAGAAATTTGACGATAA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GTCAGTTGCACTTGGTCGAATGAAAACATATTGAAAATCAACTGAGAAATTTGACGATAA
+
+subject:        TCAAAATACTGACCTGCAAAGAAGCGCTGCATACGTCGATAAAATGATTGTGGTAAGCAC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TCAAAATACTGACCTGCAAAGAAGCGCTGCATACGTCGATAAAATGATTGTGGTAAGCAC
+
+subject:        TTGATGGGCAAGGCTTTAGATGCAGAAGAAAGATTACATGTTTGCTTTAAAATAATCACA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTGATGGGCAAGGCTTTAGATGCAGAAGAAAGATTACATGTTTGCTTTAAAATAATCACA
+
+subject:        AGCATGATGAGCGCAAAGCACTTTAAATGTGACTTGTTCCATTTTAGATATTTGTTTAAG
+                |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||
+query:          AGCATGATGAGCGCAAAGCACTTTAAATGTGACTTGTTCCATTTTAGAGATTTGTTTAAG
+
+subject:        ATAAGATATAACTCATTGAGATGTGTCATAGTATTCGTCGTTAGAAAACAATTATTATGA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ATAAGATATAACTCATTGAGATGTGTCATAGTATTCGTCGTTAGAAAACAATTATTATGA
+
+subject:        CATTATTTCAATGAGTTATCTATTTTTATCGTGTACAGAG
+                ||||||||||||||||||||||||||| ||||||||||||
+query:          CATTATTTCAATGAGTTATCTATTTTTGTCGTGTACAGAG
+
+# ISAba125, id=2, hsp 1
+subject:        GGCAGAGTAAAACTTGAAGTGCGACATAAACCACCTAATTAATTTAAAGGGTTTATGGAG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GGCAGAGTAAAACTTGAAGTGCGACATAAACCACCTAATTAATTTAAAGGGTTTATGGAG
+
+subject:        TATATAAAATTGTCATACCATCATCTTAACTTTGAAGATCGTACTGCATTAATGCTTGAG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TATATAAAATTGTCATACCATCATCTTAACTTTGAAGATCGTACTGCATTAATGCTTGAG
+
+subject:        TCAAGAAAAGAAGGCTTTTCAGCCAGAAAATTTGCTGAACTTATTAAAAGACATCCTAGT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TCAAGAAAAGAAGGCTTTTCAGCCAGAAAATTTGCTGAACTTATTAAAAGACATCCTAGT
+
+subject:        ACGATCTATCGTGAGCTTAAAAGAAATAGCATCAATGACGTTTATCAAGCTCAATATGCT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ACGATCTATCGTGAGCTTAAAAGAAATAGCATCAATGACGTTTATCAAGCTCAATATGCT
+
+subject:        TCTGATAACACTTTTGCTAGACGTAGACGTGGTCACAGAAAACTCAAAATCGATTCAATC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TCTGATAACACTTTTGCTAGACGTAGACGTGGTCACAGAAAACTCAAAATCGATTCAATC
+
+subject:        CTCTGGAAATTTATTGTTGAAGCGATCCGTTGTTTATGGTCTCCTCAGCAAATAGCAAAG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CTCTGGAAATTTATTGTTGAAGCGATCCGTTGTTTATGGTCTCCTCAGCAAATAGCAAAG
+
+subject:        CGTTTAAAGACATTTCCTGATTTGGATCAAACAATGAATGTAAGCCATACAACGATTTAT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CGTTTAAAGACATTTCCTGATTTGGATCAAACAATGAATGTAAGCCATACAACGATTTAT
+
+subject:        TCAACGATACGAGCATTACCCAAGGGTGAGTTGAAAAAAGACTTATTATCCTGTCTACGT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TCAACGATACGAGCATTACCCAAGGGTGAGTTGAAAAAAGACTTATTATCCTGTCTACGT
+
+subject:        CATGAAAATAAAAAGCGAAAAGCTAACGGTGAACCTAAAAAAGATTCTATATTACAGGAT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CATGAAAATAAAAAGCGAAAAGCTAACGGTGAACCTAAAAAAGATTCTATATTACAGGAT
+
+subject:        ATTAAAACTATTCATGAGCGCCCAGCCGAAGTTCAAGAAAGAAAAATACCGGGTCATTGG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ATTAAAACTATTCATGAGCGCCCAGCCGAAGTTCAAGAAAGAAAAATACCGGGTCATTGG
+
+subject:        GAAGCTGATTTAATTAAAGGTAAAGACAATAAAAGTTCGATAGCAACACTTATTGAACGA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GAAGCTGATTTAATTAAAGGTAAAGACAATAAAAGTTCGATAGCAACACTTATTGAACGA
+
+subject:        AATACACGGCTCTGTATCTTGGCAACATTACCTGATGCAAAGGCAGAATCAGTGCGCAAG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AATACACGGCTCTGTATCTTGGCAACATTACCTGATGCAAAGGCAGAATCAGTGCGCAAG
+
+subject:        GCTTTAACTGAAGCTCTGAAATATTTACCTGCAGAACTGCGTAAAACGTTGACCCATGAC
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+query:          GCTTTAACTGAAGCTCTGAAATATTTACCTGCAGAACTGCGTAAAACGTTGACCTATGAC
+
+subject:        CGTGGACGTGAGATGTCAGAACATAAAATACTCGAAGAAGATTTAGGCATAGATGTATAT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CGTGGACGTGAGATGTCAGAACATAAAATACTCGAAGAAGATTTAGGCATAGATGTATAT
+
+subject:        TTCTGTGACCCACATTCACCCTGGCAAAAAGGCACATGCGAAAATATGAATGGTTTAATT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTCTGTGACCCACATTCACCCTGGCAAAAAGGCACATGCGAAAATATGAATGGTTTAATT
+
+subject:        AGGCAATATTTACCTAAAGGGATTGATTTAAATCAGGCAGATCAGCATTATTTAAATCAA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AGGCAATATTTACCTAAAGGGATTGATTTAAATCAGGCAGATCAGCATTATTTAAATCAA
+
+subject:        GTTGCCATGTCACTGAATACTCGTCCTAGAAAGGCGTTAGATTGGCTTACACCATTAGAG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GTTGCCATGTCACTGAATACTCGTCCTAGAAAGGCGTTAGATTGGCTTACACCATTAGAG
+
+subject:        AAATTTGCTCAGCTTGTTGATTATCATATGGCTTTTGAAACTGTCGCACCTCATGTTTGA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AAATTTGCTCAGCTTGTTGATTATCATATGGCTTTTGAAACTGTCGCACCTCATGTTTGA
+
+subject:        ATTCGCC
+                |||||||
+query:          ATTCGCC
+
+# ISAba26, id=3, hsp 1
+subject:        GAGCCTGTAAATTATTTTGTGTAAGTTCCATTTTTTATAAATGATCTTTTAATCGATCAT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GAGCCTGTAAATTATTTTGTGTAAGTTCCATTTTTTATAAATGATCTTTTAATCGATCAT
+
+subject:        CGAACTGAATCGTAAACCAATTCATTGCTAAACGCCAATTTTGAATTGGCATCGTCCATT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CGAACTGAATCGTAAACCAATTCATTGCTAAACGCCAATTTTGAATTGGCATCGTCCATT
+
+subject:        TCTTCGCAGCATTTGATGTTGCTAAGTAAATGACCTTCTTTACTGAGTCATCAGATGAAA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TCTTCGCAGCATTTGATGTTGCTAAGTAAATGACCTTCTTTACTGAGTCATCAGATGAAA
+
+subject:        AGATTTTCCTTTTCTTCGTTGAATGGCGTATTACGCTATTCAACGACTCAATCGCATTTG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AGATTTTCCTTTTCTTCGTTGAATGGCGTATTACGCTATTCAACGACTCAATCGCATTTG
+
+subject:        TTGTATAAATAGCATGACGTATTTCGGCTGGATAGCTAAAGATCGTTCGGATATTTTCCC
+                |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTGTATAAATTGCATGACGTATTTCGGCTGGATAGCTAAAGATCGTTCGGATATTTTCCC
+
+subject:        AATTGGCCCGCCAGGATTCTCCAATTTTGGGATACTGGTGATTCCATTGATCACAGAAGA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AATTGGCCCGCCAGGATTCTCCAATTTTGGGATACTGGTGATTCCATTGATCACAGAAGA
+
+subject:        TGTCTAGGGACTTTAAAGCATTTTCCTCTGTACTTGCCTGATAAATCGCTTTCAGACCCG
+                |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TGTCTAGGGATTTTAAAGCATTTTCCTCTGTACTTGCCTGATAAATCGCTTTCAGACCCG
+
+subject:        ACGTAACAGCCTTGTAGTCTTTCCAGCTTACAAATCTCAGGCTATTGCGTACAACATGCA
+                |||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ACGTAACAGCTTTGTAGTCTTTCCAGCTTACAAATCTCAGGCTATTGCGTACAACATGCA
+
+subject:        CAATACACAGTTGAATATCAGTATGAGGGTAAACAGAGGCTATCGCGTCAGGAAAGCCTT
+                | |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+query:          CGATACACAGTTGAATATCAGTATGAGGGTAAACAGAGGCTATCGCGTCAGGGAAGCCTT
+
+subject:        TTAATCCATCTACACAGGCAACAAGAATGTCCTGTACTCCTCGATTTTTTAGCTCTGTCA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTAATCCATCTACACAGGCAACAAGAATGTCCTGTACTCCTCGATTTTTTAGCTCTGTCA
+
+subject:        TGACTGACAGCCAGAATTTGGCACCTTCTGTCTGAGCAATCCACATACCCAGTAATTCTT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TGACTGACAGCCAGAATTTGGCACCTTCTGTCTGAGCAATCCACATACCCAGTAATTCTT
+
+subject:        TTTGCCCATCCATATTGATGCCTAAAGCAAGGTATACGGACTTGTTAATCACATTGGAGT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTTGCCCATCCATATTGATGCCTAAAGCAAGGTATACGGACTTGTTAATCACATTGGAGT
+
+subject:        GCTGACGGACTTTGACAACAATACAGTCAAGATAGACAACAGGATAAAGGCTATCTAAGG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GCTGACGGACTTTGACAACAATACAGTCAAGATAGACAACAGGATAAAGGCTATCTAAGG
+
+subject:        CTCTATTTTGCCACTCAGTCACTTGCTCAATCACAGCATCGGTAACTTTGCTGATGAGAG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CTCTATTTTGCCACTCAGTCACTTGCTCAATCACAGCATCGGTAACTTTGCTGATGAGAG
+
+subject:        ATGCTGACACATCGGCATCGTACATTTCTTTGAAGAAGGCTACAATTTCCCTATTAGTCA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ATGCTGACACATCGGCATCGTACATTTCTTTGAAGAAGGCTACAATTTCCCTATTAGTCA
+
+subject:        TTCCTTTTGCATACAGTGAGAGGATTTGGTCATCCATACTGGTGATGCGTGTTTGGTGCT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTCCTTTTGCATACAGTGAGAGGATTTGGTCATCCATACTGGTGATGCGTGTTTGGTGCT
+
+subject:        TTTTGATAATTTGTGGCTCAAATGAACCTTCTCGATCACGGGGAATATCTAAAGCCAGTT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TTTTGATAATTTGTGGCTCAAATGAACCTTCTCGATCACGGGGAATATCTAAAGCCAGTT
+
+subject:        GTCCATCTTGAGTTGTAATGGTTTTAGAACTAAACCCATTACGGCTATTTGAGCCTTTCT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GTCCATCTTGAGTTGTAATGGTTTTAGAACTAAACCCATTACGGCTATTTGAGCCTTTCT
+
+subject:        TGGGCTGATGCTTTTCATAACCGAGATGGTCTGAAAGTTCAGTATTGAGTGCAGTTTCAA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TGGGCTGATGCTTTTCATAACCGAGATGGTCTGAAAGTTCAGTATTGAGTGCAGTTTCAA
+
+subject:        TCATGAATTTTTTAAAGACTGCTGTCATTTGGTTTAAGTCTTCTGGTGTTTTTAGACCTT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TCATGAATTTTTTAAAGACTGCTGTCATTTGGTTTAAGTCTTCTGGTGTTTTTAGACCTT
+
+subject:        TAGCCAATTCGGCAGCCATACTTTTGATTGTTGCTTCATCCATGTGAAGTACCTTTTGTA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TAGCCAATTCGGCAGCCATACTTTTGATTGTTGCTTCATCCATGTGAAGTACCTTTTGTA
+
+subject:        ATTATCCTCTGAAGGATAAATGAAAATTAAGTACTTACACAAAATTTAGAACAGTCCC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ATTATCCTCTGAAGGATAAATGAAAATTAAGTACTTACACAAAATTTAGAACAGTCCC
+
+# IS26, id=4, hsp 1
+subject:        GGCACTGTTGCAAATAGTCGGTGGTGATAAACTTATCATCCCCTTTTGCTGATGGAGCTG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GGCACTGTTGCAAATAGTCGGTGGTGATAAACTTATCATCCCCTTTTGCTGATGGAGCTG
+
+subject:        CACATGAACCCATTCAAAGGCCGGCATTTTCAGCGTGACATCATTCTGTGGGCCGTACGC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CACATGAACCCATTCAAAGGCCGGCATTTTCAGCGTGACATCATTCTGTGGGCCGTACGC
+
+subject:        TGGTACTGCAAATACGGCATCAGTTACCGTGAGCTGCAGGAGATGCTGGCTGAACGCGGA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          TGGTACTGCAAATACGGCATCAGTTACCGTGAGCTGCAGGAGATGCTGGCTGAACGCGGA
+
+subject:        GTGAATGTCGATCACTCCACGATTTACCGCTGGGTTCAGCGTTATGCGCCTGAAATGGAA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GTGAATGTCGATCACTCCACGATTTACCGCTGGGTTCAGCGTTATGCGCCTGAAATGGAA
+
+subject:        AAACGGCTGCGCTGGTACTGGCGTAACCCTTCCGATCTTTGCCCGTGGCACATGGATGAA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AAACGGCTGCGCTGGTACTGGCGTAACCCTTCCGATCTTTGCCCGTGGCACATGGATGAA
+
+subject:        ACCTACGTGAAGGTCAATGGCCGCTGGGCGTATCTGTACCGGGCCGTCGACAGCCGGGGC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          ACCTACGTGAAGGTCAATGGCCGCTGGGCGTATCTGTACCGGGCCGTCGACAGCCGGGGC
+
+subject:        CGCACTGTCGATTTTTATCTCTCCTCCCGTCGTAACAGCAAAGCTGCATACCGGTTTCTG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          CGCACTGTCGATTTTTATCTCTCCTCCCGTCGTAACAGCAAAGCTGCATACCGGTTTCTG
+
+subject:        GGTAAAATCCTCAACAACGTGAAGAAGTGGCAGATCCCGCGATTCATCAACACGGATAAA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GGTAAAATCCTCAACAACGTGAAGAAGTGGCAGATCCCGCGATTCATCAACACGGATAAA
+
+subject:        GCGCCCGCCTATGGTCGCGCGCTTGCTCTGCTCAAACGCGAAGGCCGGTGCCCGTCTGAC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GCGCCCGCCTATGGTCGCGCGCTTGCTCTGCTCAAACGCGAAGGCCGGTGCCCGTCTGAC
+
+subject:        GTTGAACACCGACAGATTAAGTACCGGAACAACGTGATTGAATGCGATCATGGCAAACTG
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GTTGAACACCGACAGATTAAGTACCGGAACAACGTGATTGAATGCGATCATGGCAAACTG
+
+subject:        AAACGGATAATCGGCGCCACGCTGGGATTTAAATCCATGAAGACGGCTTACGCCACCATC
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AAACGGATAATCGGCGCCACGCTGGGATTTAAATCCATGAAGACGGCTTACGCCACCATC
+
+subject:        AAAGGTATTGAGGTGATGCGTGCACTACGCAAAGGCCAGGCCTCAGCATTTTATTATGGT
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          AAAGGTATTGAGGTGATGCGTGCACTACGCAAAGGCCAGGCCTCAGCATTTTATTATGGT
+
+subject:        GATCCCCTGGGCGAAATGCGCCTGGTAAGCAGAGTTTTTGAAATGTAAGGCCTTTGAATA
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query:          GATCCCCTGGGCGAAATGCGCCTGGTAAGCAGAGTTTTTGAAATGTAAGGCCTTTGAATA
+
+subject:        AGACAAAAGGCTGCCTCATCGCTAACTTTGCAACAGTGCC
+                ||||||||||||||||||||||||||||||||||||||||
+query:          AGACAAAAGGCTGCCTCATCGCTAACTTTGCAACAGTGCC
+

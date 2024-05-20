@@ -1,0 +1,6 @@
+##gff-version 3
+NZ_CAKNBR010000002.1 Acinetobacter baumannii strain cpe048, whole genome shotgun sequence	mge_finder	unit_transposon	876390	887776	.	-	.	Alias=AbaR4;Gap=M2189 I1 M1501 D2 M179 D1 M4 I1 M58 I1 M6 D1 M29 I1 M8 D1 M178 I2 M8 D1 M1 D1 M4 D1 M3 D2 M6 I3 M718 N-6 M421 N56 M6014;ID=MGE1;Name=Tn6022;other=
+NZ_CAKNBR010000010.1 Acinetobacter baumannii strain cpe048, whole genome shotgun sequence	mge_finder	insertion_sequence	32565	33882	.	-	.	Alias=None;Gap=M1318;ID=MGE2;Name=ISAba26;other=
+NZ_CAKNBR010000010.1 Acinetobacter baumannii strain cpe048, whole genome shotgun sequence	mge_finder	irl	32566	32614	.	-	.	Parent=MGE2
+NZ_CAKNBR010000010.1 Acinetobacter baumannii strain cpe048, whole genome shotgun sequence	mge_finder	gene	32642	33849	.	-	.	Parent=MGE2;name=transposase
+NZ_CAKNBR010000010.1 Acinetobacter baumannii strain cpe048, whole genome shotgun sequence	mge_finder	irr	33834	33882	.	-	.	Parent=MGE2

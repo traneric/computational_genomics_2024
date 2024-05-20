@@ -1,0 +1,40 @@
+##gff-version 3
+NZ_CAKNBT010000003.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	154269	155321	.	-	.	Alias=None;Gap=M310 I1 M3 D1 M116 I1 M3 D1 M175 I1 M444;ID=MGE1;Name=ISPpu1;other=
+NZ_CAKNBT010000032.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	44	2070	.	-	.	Alias=None;Gap=M13 D1 M4 I1 M43 D1 M3 I1 M133 I1 M5 D1 M221 I1 M3 D1 M155 I1 M6 D1 M115 D4 M9 I3 M1 I1 M95 I1 M4 D1 M481 D1 M2 D2 M1 D4 M4 D1 M14 D1 M87 N97 M10 D1 M4 I1 M54 D1 M106 D1 M6 I1 M5 I1 M3 D1 M237 D1 M7 I1 M1 I1 M9 I1 M65;ID=MGE2;Name=ISPsy34;other=
+NZ_CAKNBT010000035.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	31015	32246	.	+	.	Alias=None;Gap=M1232;ID=MGE3;Name=ISPen2;other=
+NZ_CAKNBT010000035.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irl	31015	31049	.	+	.	Parent=MGE3
+NZ_CAKNBT010000035.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	31079	31357	.	+	.	Parent=MGE3;name=transposase
+NZ_CAKNBT010000035.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	31285	32229	.	+	.	Parent=MGE3;name=transposase
+NZ_CAKNBT010000035.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	31079	32229	.	+	.	Parent=MGE3;name=transposase
+NZ_CAKNBT010000035.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irr	32208	32246	.	-	.	Parent=MGE3
+NZ_CAKNBT010000057.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	25221	26413	.	+	.	Alias=None;Gap=M1193;ID=MGE4;Name=ISPa26;other=
+NZ_CAKNBT010000057.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irl	25221	25232	.	+	.	Parent=MGE4
+NZ_CAKNBT010000057.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	25298	26269	.	+	.	Parent=MGE4;name=transposase
+NZ_CAKNBT010000057.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irr	26396	26413	.	-	.	Parent=MGE4
+NZ_CAKNBT010000073.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	8430	10807	.	+	.	Alias=None;Gap=M302 I3 M1 I1 M1 I2 M739 I2 M2 D1 M1 D1 M1330;ID=MGE5;Name=ISPa140;other=
+NZ_CAKNBT010000086.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	6265	7707	.	-	.	Alias=None;Gap=M1443;ID=MGE6;Name=ISPa79;other=
+NZ_CAKNBT010000089.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	3384	5753	.	+	.	Alias=None;Gap=M2315 D2 M3 I2 M34 I1 M16;ID=MGE7;Name=ISPsko1;other=
+NZ_CAKNBT010000098.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	140	2744	.	-	.	Alias=None;Gap=M109 I1 M2496;ID=MGE8;Name=ISPst3;other=
+NZ_CAKNBT010000098.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	5108	6744	.	+	.	Alias=None;Gap=M1428 D2 M207;ID=MGE9;Name=ISPa1635;other=
+NZ_CAKNBT010000100.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	4754	5658	.	-	.	Alias=None;Gap=M64 I1 M3 D1 M116 I1 M3 D1 M693 I1 M5 D1 M18;ID=MGE10;Name=ISPst8;other=
+NZ_CAKNBT010000121.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	3670	4549	.	+	.	Alias=IS6100L;Gap=M880;ID=MGE11;Name=IS6100;other=
+NZ_CAKNBT010000121.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irl	3670	3683	.	+	.	Parent=MGE11
+NZ_CAKNBT010000121.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	3732	4496	.	+	.	Parent=MGE11;name=transposase
+NZ_CAKNBT010000121.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irr	4536	4549	.	-	.	Parent=MGE11
+NZ_CAKNBT010000122.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	3170	4361	.	+	.	Alias=None;Gap=M1192;ID=MGE12;Name=ISPa16;other=
+NZ_CAKNBT010000122.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irl	3171	3219	.	+	.	Parent=MGE12
+NZ_CAKNBT010000122.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	3237	4216	.	+	.	Parent=MGE12;name=transposase
+NZ_CAKNBT010000122.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irr	4313	4361	.	+	.	Parent=MGE12
+NZ_CAKNBT010000128.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	686	1558	.	-	.	Alias=None;Gap=M475 I1 M103 I1 M1 I2 M3 I3 M2 I2 M5 I1 M1 I1 M9 I1 M3 D1 M31 I1 M5 D1 M217 I1 M16;ID=MGE13;Name=ISCte7;other=
+NZ_CAKNBT010000129.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	unit_transposon	41	3553	.	-	.	Alias=None;Gap=M84 D1 M442 I1 M5 D1 M104 D3 M443 I1 M4 D1 M120 I1 M5 D1 M463 I1 M3 D1 M74 D1 M6 I1 M216 I1 M2 D1 M306 I3 M185 D1 M4 I1 M180 D1 M2 I1 M148 D1 M4 I1 M245 I1 M2 I2 M393 D1 M2 D1 M4 I2 M14 D1 M8 I1 M29;ID=MGE14;Name=Tn6196;other=
+NZ_CAKNBT010000139.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	1	2355	.	+	.	Alias=None;Gap=M1196 D1 M2 D2 M1090 D3 M61;ID=MGE15;Name=ISPsko1;other=
+NZ_CAKNBT010000140.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	1	2621	.	-	.	Alias=None;Gap=M40 N25 M1513 I1 M2 D1 M689 I1 M1 I1 M5 D2 M5 D1 M3 I1 M14 D1 M6 D1 M4 I1 M1 I1 M14 D1 M6 I1 M166 D1 M11 I2 M8 D2 M56 I1 M1 I1 M3 D1 M1 D1 M35;ID=MGE16;Name=ISPsy14;other=
+NZ_CAKNBT010000154.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	24	1643	.	+	.	Alias=None;Gap=M25 D1 M2 D1 M10 D1 M8 I1 M24 D1 M6 I1 M31 I1 M36 I1 M6 D1 M2 D1 M3 D1 M9 D2 M53 D1 M1 D1 M1 D2 M1 D1 M2 D1 M108 I1 M3 D1 M82 I1 M1 I1 M9 D1 M2 D1 M110 I1 M1 I1 M5 D1 M1 D1 M128 I3 M5 I2 M6 I1 M2 I1 M5 D1 M1 D2 M13 D3 M1 D1 M135 I1 M1 I1 M2 D1 M1 D1 M16 I1 M4 D1 M110 I1 M2 D1 M55 I1 M5 D1 M13 D1 M6 D1 M6 I1 M1 I1 M7 I1 M1 I1 M10 D2 M22 D1 M4 I1 M32 D1 M5 D1 M3 I2 M179 D1 M3 I1 M62 I1 M3 D1 M132 I1 M5 D1 M50;ID=MGE17;Name=ISPsy35;other=
+NZ_CAKNBT010000162.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	1	1232	.	+	.	Alias=None;Gap=M1232;ID=MGE18;Name=ISPpu22;other=
+NZ_CAKNBT010000162.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irl	2	50	.	+	.	Parent=MGE18
+NZ_CAKNBT010000162.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	66	343	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNBT010000162.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	290	1215	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNBT010000162.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	gene	66	1215	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNBT010000162.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	irr	1184	1232	.	+	.	Parent=MGE18
+NZ_CAKNBT010000165.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	6	1130	.	+	.	Alias=None;Gap=M21 D1 M5 I1 M39 D1 M3 I1 M1055;ID=MGE19;Name=ISPpu1;other=
+NZ_CAKNBT010000166.1 Pseudomonas putida strain cpe008, whole genome shotgun sequence	mge_finder	insertion_sequence	1	1163	.	-	.	Alias=ISPsy10;Gap=M295 I5 M868;ID=MGE20;Name=ISPa41;other=

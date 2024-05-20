@@ -1,0 +1,55 @@
+#date: 2024-05-19_21:38
+#sample: GCF_929606275.1_cpe016_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,ISAba44,,predicted,insertion sequence,882,,0,1.0,1.0,0,0,"NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",140309,141190,M882
+2,ISAbe15,,predicted,insertion sequence,830,,0.0,0.749,0.934,18,193,"NZ_CAKNBL010000001.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",446,1275,M117 I1 M6 D1 M225 I1 M2 D1 M153 D1 M9 I1 M18 D1 M1 D1 M10 I2 M7 D1 M2 D1 M2 I2 M124 I1 M9 D1 M48 I1 M2 D1 M86
+3,ISAba29,,predicted,insertion sequence,1309,,0,0.96,1.0,0,52,"NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",127176,128484,M1309
+4,ISAba27,,predicted,insertion sequence,883,,0,1.0,1.0,0,0,"NZ_CAKNBL010000006.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",62215,63097,M883
+5,ISAba8,,predicted,insertion sequence,1955,,0,0.987,1.0,0,26,"NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",26004,27958,M1955
+6,ISAha3,,predicted,insertion sequence,1039,,0,0.966,1.0,0,35,"NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",31179,32217,M1039
+7,ISAcsp3,,predicted,insertion sequence,1263,,0,0.875,0.979,26,132,"NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",11550,12812,M233 D2 M1 D1 M3 D2 M1 D2 M1 D3 M1 D4 M915 D1 M3 D1 M2 D2 M2 D1 M2 D3 M1 D4 M72
+8,ISAca1,,predicted,insertion sequence,1201,,0,0.768,0.976,29,251,"NZ_CAKNBL010000007.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",45291,46491,M291 D2 M1 D3 M3 D1 M4 D2 M5 D1 M1 D1 M1 D3 M1 D2 M130 D1 M13 I1 M165 I1 M10 D1 M146 I2 M5 D1 M6 D1 M13 I1 M3 D2 M3 I1 M80 I1 M5 D1 M293
+9,ISAbe15,,predicted,insertion sequence,830,,0.0,0.752,0.934,18,190,"NZ_CAKNBL010000010.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",82649,83478,M117 I1 M6 D1 M225 I1 M2 D1 M153 D1 M9 I1 M18 D1 M1 D1 M10 I2 M7 D1 M2 D1 M2 I2 M124 I1 M9 D1 M48 I1 M2 D1 M86
+10,ISAba63,,predicted,insertion sequence,1309,,0,0.961,1.0,0,51,"NZ_CAKNBL010000017.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",1,1309,M1309
+11,ISAlw25,,predicted,insertion sequence,787,,0,0.997,0.999,1,1,"NZ_CAKNBL010000021.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",49110,49896,M764 I1 M23
+12,ISAba19,,predicted,insertion sequence,1202,,0,0.998,0.918,0,2,"NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",5410,6611,M1202
+13,ISAba12,,predicted,insertion sequence,1039,,0,0.987,1.0,0,13,"NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",45930,46968,M1039
+14,IS1006,,predicted,insertion sequence,818,,0,0.83,0.996,3,136,"NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",3190,4007,M50 I1 M489 D1 M2 I1 M276
+15,ISAba17,,predicted,insertion sequence,2593,,0,0.995,1.0,1,11,"NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",28548,31140,M57 I1 M2536
+16,ISAba8,,predicted,insertion sequence,1955,,0,0.955,1.0,0,88,"NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",20247,22201,M1955
+17,ISAcsp5,,predicted,insertion sequence,1288,,0,0.991,1.0,0,11,"NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",1040,2327,M1288
+18,ISAjo3,,predicted,insertion sequence,1186,,0,0.913,1.0,0,103,"NZ_CAKNBL010000036.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",20393,21578,M1186
+19,ISAbe18,,predicted,insertion sequence,1269,,0,0.994,1.0,0,8,"NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",8941,10209,M1269
+20,ISAba13,ISN1,predicted,insertion sequence,1039,,0,0.995,1.0,0,5,"NZ_CAKNBL010000043.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",29745,30783,M1039
+21,ISAcsp3,,predicted,insertion sequence,1234,,0,0.929,0.996,5,83,"NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",4611,5844,M55 D1 M10 I1 M1 I2 M467 I1 M700
+22,IS1006,,predicted,insertion sequence,819,,0,0.949,1.0,0,42,"NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",2378,3196,M819
+23,ISOur1,IS1009,predicted,insertion sequence,819,,0,0.985,0.999,1,11,"NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",20942,21760,M690 I1 M129
+24,ISAba40,,predicted,insertion sequence,1039,,0,1.0,1.0,0,0,"NZ_CAKNBL010000053.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",25535,26573,M1039
+25,ISAba31,,predicted,insertion sequence,836,,0,0.982,0.972,1,14,"NZ_CAKNBL010000056.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",25599,26434,M4 D1 M831
+26,ISAjo2,,predicted,insertion sequence,1482,,0,0.921,1.0,0,117,"NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",1942,3423,M1482
+27,ISAba33,,predicted,insertion sequence,1159,,0,0.991,0.982,0,10,"NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",12890,14048,M1159
+28,ISAba9,,predicted,insertion sequence,974,,0,0.997,1.0,0,3,"NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",14593,15566,M974
+29,ISAba125,,predicted,insertion sequence,1087,,0,0.993,1.0,0,8,"NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",16882,17968,M1087
+30,ISAba12,,predicted,insertion sequence,1040,,0,0.86,0.993,7,139,"NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",19679,20718,M615 I1 M3 D1 M172 I1 M4 I1 M4 D2 M209 D1 M29
+31,ISAba26,,predicted,insertion sequence,1318,,0,0.999,1.0,0,1,"NZ_CAKNBL010000059.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",1017,2334,M1318
+32,ISAca1,,predicted,insertion sequence,1199,,0,0.866,0.984,19,142,"NZ_CAKNBL010000060.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",5820,7018,M6 I1 M36 I1 M530 D6 M3 D8 M2 D1 M144 D1 M3 I1 M459
+33,ISAba12,,predicted,insertion sequence,1037,,0,0.889,0.996,4,111,"NZ_CAKNBL010000066.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",15378,16414,M971 I2 M42 I1 M4 D1 M19
+34,ISAha2,,predicted,insertion sequence,1040,,0,0.996,1.0,0,4,"NZ_CAKNBL010000075.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",7832,8871,M1040
+35,ISAha3,,predicted,insertion sequence,1039,,0,0.819,0.996,4,184,"NZ_CAKNBL010000108.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",351,1389,M16 D1 M18 I1 M230 D1 M5 I1 M768
+4_3,cn_10067_ISAba29,,putative,composite transposon,10067,,0,0.96,1.0,0,52,"NZ_CAKNBL010000002.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",127175,137242,
+13_12,cn_2116_ISAba19,,putative,composite transposon,2116,,0,0.998,0.918,0,2,"NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",4495,6611,
+14_13,cn_46817_ISAba12,,putative,composite transposon,46817,,0,0.987,1.0,0,13,"NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",151,46968,
+15_13,cn_1932_ISAba12,,putative,composite transposon,1932,,0,0.987,1.0,0,13,"NZ_CAKNBL010000023.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",45929,47861,
+16_15,cn_3060_ISAba17,,putative,composite transposon,3060,,0,0.995,1.0,1,11,"NZ_CAKNBL010000033.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",28080,31140,
+22_21,cn_2192_ISAcsp3,,putative,composite transposon,2192,,0,0.929,0.996,5,83,"NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",4610,6802,
+23_22,cn_1448_IS1006,,putative,composite transposon,1448,,0,0.949,1.0,0,42,"NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",1748,3196,
+24_22,cn_19383_IS1006,,putative,composite transposon,19383,,0,0.949,1.0,0,42,"NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",2377,21760,
+24_23,cn_19383_ISOur1,,putative,composite transposon,19383,,0,0.985,0.999,1,11,"NZ_CAKNBL010000044.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",2377,21760,
+25_24,cn_26573_ISAba40,,putative,composite transposon,26573,,0,1.0,1.0,0,0,"NZ_CAKNBL010000053.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",0,26573,
+29_28,cn_10463_ISAba9,,putative,composite transposon,10463,,0,0.997,1.0,0,3,"NZ_CAKNBL010000057.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",14592,25055,
+31_30,cn_1862_ISAba12,,putative,composite transposon,1862,,0,0.86,0.993,7,139,"NZ_CAKNBL010000058.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",18856,20718,
+32_31,cn_2104_ISAba26,,putative,composite transposon,2104,,0,0.999,1.0,0,1,"NZ_CAKNBL010000059.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",230,2334,
+36_35,cn_1374_ISAha3,,putative,composite transposon,1374,,0,0.819,0.996,4,184,"NZ_CAKNBL010000108.1 Acinetobacter baumannii strain cpe016, whole genome shotgun sequence",15,1389,

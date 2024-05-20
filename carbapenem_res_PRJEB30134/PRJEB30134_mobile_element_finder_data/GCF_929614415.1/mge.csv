@@ -1,0 +1,39 @@
+#date: 2024-05-19_22:06
+#sample: GCF_929614415.1_cpe105_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,MITEYpe1,,predicted,mite,119,,0.0,0.775,0.935,3,24,"NZ_CAKNCK010000001.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",106612,106730,M57 D1 M8 I1 M7 D1 M45
+2,MITEYpe1,,predicted,mite,117,,0.0,0.824,0.919,4,17,"NZ_CAKNCK010000002.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",626471,626587,M35 D1 M2 D1 M4 I1 M1 I1 M73
+3,ISEc16,,predicted,insertion sequence,1240,,0,0.826,0.99,6,210,"NZ_CAKNCK010000003.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",499959,501198,M601 D1 M8 I1 M110 D1 M4 I1 M460 D1 M1 D1 M52
+4,ISSen10,,predicted,insertion sequence,1336,,0,0.791,0.988,16,265,"NZ_CAKNCK010000003.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",466993,468328,M63 D1 M4 I1 M522 I1 M6 D1 M45 D1 M3 I1 M127 D3 M6 I1 M2 I2 M35 D1 M2 D1 M3 I1 M1 I1 M509
+5,MITEYpe1,,predicted,mite,121,,0.0,0.784,0.951,6,21,"NZ_CAKNCK010000003.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",295345,295465,M33 D1 M4 I1 M22 D1 M2 I1 M8 I2 M50
+6,ISEc42,,predicted,insertion sequence,1177,,0,0.794,0.904,16,229,"NZ_CAKNCK010000004.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",540801,541977,M149 I2 M4 D1 M1 D1 M425 I1 M8 D1 M27 D1 M3 I1 M116 D1 M4 I1 M166 I1 M1 I1 M2 I1 M7 I2 M254 I1 M5
+7,MITEYpe1,,predicted,mite,121,,0.0,0.797,0.967,3,22,"NZ_CAKNCK010000004.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",402802,402922,M34 I1 M2 D1 M14 I1 M70
+8,MITEYpe1,,predicted,mite,121,,0.0,0.77,0.967,2,26,"NZ_CAKNCK010000005.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",118304,118424,M70 I1 M11 D1 M39
+9,MITEYpe1,,predicted,mite,117,,0.0,0.771,0.935,2,25,"NZ_CAKNCK010000005.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",118550,118666,M70 I1 M11 D1 M35
+10,MITEYpe1,,predicted,mite,123,,0.0,0.831,0.984,2,19,"NZ_CAKNCK010000006.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",82520,82642,M85 D1 M2 I1 M35
+11,MITEYpe1,,predicted,mite,117,,0.0,0.78,0.935,2,24,"NZ_CAKNCK010000006.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",47865,47981,M68 I1 M3 D1 M45
+12,MITEYpe1,,predicted,mite,117,,0.0,0.788,0.935,2,23,"NZ_CAKNCK010000006.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",47991,48107,M68 I1 M3 D1 M45
+13,MITEYpe1,,predicted,mite,116,,0.0,0.776,0.943,0,26,"NZ_CAKNCK010000006.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",48117,48232,M116
+14,MITEYpe1,,predicted,mite,118,,0.0,0.849,0.943,2,16,"NZ_CAKNCK010000007.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",166194,166311,M81 D1 M2 I1 M34
+15,MITEYpe1,,predicted,mite,119,,0.0,0.874,0.967,0,15,"NZ_CAKNCK010000009.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",228,346,M119
+16,ISRor3,,predicted,insertion sequence,1007,,0,0.859,0.914,40,102,"NZ_CAKNCK010000010.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",66900,67906,M462 D1 M3 I1 M341 D4 M2 D8 M47 D1 M1 D1 M1 D2 M2 D1 M1 D5 M1 D1 M1 D1 M3 D1 M3 D1 M6 D3 M2 D5 M1 D2 M16 I1 M5 D1 M71
+17,ISKqu3,,predicted,insertion sequence,1421,,0,0.996,0.998,0,5,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",17731,19151,M1421
+18,ISLad1,,predicted,insertion sequence,1249,,0,0.914,1.0,0,107,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",117815,119063,M1249
+19,ISPrre1,,predicted,insertion sequence,1249,,0,0.843,0.995,6,190,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",89823,91071,M221 I1 M3 D1 M231 D2 M7 I1 M2 I1 M782
+20,ISKpn74,,predicted,insertion sequence,1056,,0,0.992,1.0,0,8,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",56350,57405,M1056
+21,ISSen9,,predicted,insertion sequence,762,,0,0.923,0.992,6,53,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",42083,42844,M230 I2 M2 I1 M3 I1 M222 I1 M194 I1 M111
+22,ISSen9,,predicted,insertion sequence,750,,0,0.936,0.977,3,45,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",7711,8460,M306 I1 M1 I1 M152 I1 M291
+23,ISEc36,,predicted,insertion sequence,1223,,0,0.878,0.93,32,122,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",48598,49820,M231 I1 M405 I5 M113 N-6 M97 I1 M193 I3 M4 I7 M2 I1 M3 I5 M3 I1 M1 I1 M1 I1 M5 I1 M1 I1 M1 I3 M3 I1 M166
+24,ISKox3,,predicted,insertion sequence,1316,,0,1.0,1.0,0,0,"NZ_CAKNCK010000016.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",35526,36841,M1316
+25,IS5075,,predicted,insertion sequence,1327,,0,0.967,1.0,0,44,"NZ_CAKNCK010000019.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",3808,5134,M1327
+26,ISKpn26,,predicted,insertion sequence,1196,,0,0.99,1.0,0,12,"NZ_CAKNCK010000020.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",5734,6929,M1196
+27,ISKpn21,ISKpW,predicted,insertion sequence,2256,,0,1.0,0.99,1,0,"NZ_CAKNCK010000022.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",2659,4914,M2253 I1 M3
+28,ISKpn38,,predicted,insertion sequence,1596,,0,0.982,0.999,0,28,"NZ_CAKNCK010000022.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",4914,6509,M1596
+19_18,cn_29241_ISLad1,,putative,composite transposon,29241,,0,0.914,1.0,0,107,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",89822,119063,
+20_19,cn_29238_ISPrre1,,putative,composite transposon,29238,,0,0.843,0.995,6,190,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",89822,119060,
+23_21_22,cn_35134_ISSen9,,putative,composite transposon,35134,,0,0.936,0.977,3,45,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",7710,42844,
+24_21,cn_6509_ISSen9,,putative,composite transposon,6509,,0,0.923,0.992,6,53,"NZ_CAKNCK010000012.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",42082,48591,
+26_25,cn_5134_IS5075,,putative,composite transposon,5134,,0,0.967,1.0,0,44,"NZ_CAKNCK010000019.1 Raoultella ornithinolytica strain cpe105, whole genome shotgun sequence",0,5134,

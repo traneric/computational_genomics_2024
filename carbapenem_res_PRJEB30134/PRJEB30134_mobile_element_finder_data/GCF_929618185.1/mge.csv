@@ -1,0 +1,13 @@
+#date: 2024-05-19_22:35
+#sample: GCF_929618185.1_cpe011_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,Tn6207,,predicted,unit transposon,6802,,0,1.0,1.0,0,0,"NZ_CAKNDI010000001.1 Acinetobacter baumannii strain cpe011, whole genome shotgun sequence",142037,148838,M6802
+2,ISVsa3,ISVs3,predicted,insertion sequence,977,,0,1.0,1.0,0,0,"NZ_CAKNDI010000001.1 Acinetobacter baumannii strain cpe011, whole genome shotgun sequence",136358,137334,M977
+3,ISAba1,,predicted,insertion sequence,1180,,0,0.997,1.0,0,3,"NZ_CAKNDI010000002.1 Acinetobacter baumannii strain cpe011, whole genome shotgun sequence",344787,345966,M1180
+4,ISAba22,,predicted,insertion sequence,1274,,0,1.0,0.951,0,0,"NZ_CAKNDI010000012.1 Acinetobacter baumannii strain cpe011, whole genome shotgun sequence",136408,137681,M270 N62 M942
+5,ISAba24,,predicted,insertion sequence,2421,,0,1.0,1.0,0,0,"NZ_CAKNDI010000029.1 Acinetobacter baumannii strain cpe011, whole genome shotgun sequence",1333,3753,M2421
+6,IS26,IS46;IS26R;IS160;IS140;IS26L;IS6,predicted,insertion sequence,820,,0,0.999,1.0,0,1,"NZ_CAKNDI010000030.1 Acinetobacter baumannii strain cpe011, whole genome shotgun sequence",1292,2111,M820
+4_3,cn_3974_ISAba1,,putative,composite transposon,3974,,0,0.997,1.0,0,3,"NZ_CAKNDI010000002.1 Acinetobacter baumannii strain cpe011, whole genome shotgun sequence",344786,348760,

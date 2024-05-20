@@ -1,0 +1,50 @@
+#date: 2024-05-19_22:01
+#sample: GCF_929608915.1_cpe051_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,IS609,,predicted,insertion sequence,1644,,0,0.98,0.941,1,32,"NZ_CAKNCF010000001.1 Escherichia coli strain cpe051, whole genome shotgun sequence",562499,564142,M1640 I1 M4
+2,ISSen9,,predicted,insertion sequence,768,,0,0.94,1.0,0,46,"NZ_CAKNCF010000001.1 Escherichia coli strain cpe051, whole genome shotgun sequence",224951,225718,M768
+3,MITEEc1,,predicted,mite,123,,0.0,0.976,1.0,0,3,"NZ_CAKNCF010000001.1 Escherichia coli strain cpe051, whole genome shotgun sequence",319000,319122,M123
+4,MITEEc1,,predicted,mite,123,,0.0,0.984,1.0,0,2,"NZ_CAKNCF010000001.1 Escherichia coli strain cpe051, whole genome shotgun sequence",340944,341066,M123
+5,ISSen9,,predicted,insertion sequence,768,,0,0.964,1.0,0,28,"NZ_CAKNCF010000002.1 Escherichia coli strain cpe051, whole genome shotgun sequence",127975,128742,M768
+6,MITEEc1,,predicted,mite,123,,0.0,1.0,1.0,0,0,"NZ_CAKNCF010000002.1 Escherichia coli strain cpe051, whole genome shotgun sequence",357425,357547,M123
+7,MITEEc1,,predicted,mite,119,,0.0,0.975,0.967,0,3,"NZ_CAKNCF010000002.1 Escherichia coli strain cpe051, whole genome shotgun sequence",113305,113423,M119
+8,ISEc8,,predicted,insertion sequence,2289,,0,0.994,0.939,0,13,"NZ_CAKNCF010000003.1 Escherichia coli strain cpe051, whole genome shotgun sequence",344754,347042,M224 N-5 M2070
+9,ISSen9,,predicted,insertion sequence,768,,0,0.922,1.0,0,60,"NZ_CAKNCF010000003.1 Escherichia coli strain cpe051, whole genome shotgun sequence",340690,341457,M768
+10,MITEEc1,,predicted,mite,122,,0.0,0.878,0.992,1,14,"NZ_CAKNCF010000003.1 Escherichia coli strain cpe051, whole genome shotgun sequence",175261,175382,M78 I1 M44
+11,IS609,,predicted,insertion sequence,1748,,0,0.976,1.0,0,42,"NZ_CAKNCF010000004.1 Escherichia coli strain cpe051, whole genome shotgun sequence",79812,81559,M1748
+12,MITEYpe1,,predicted,mite,115,,0.0,0.786,0.902,4,21,"NZ_CAKNCF010000005.1 Escherichia coli strain cpe051, whole genome shotgun sequence",294750,294864,M43 D1 M5 I1 M21 I1 M4 D1 M40
+13,IS30,IS121,predicted,insertion sequence,1221,,0,0.998,1.0,0,2,"NZ_CAKNCF010000007.1 Escherichia coli strain cpe051, whole genome shotgun sequence",9719,10939,M1221
+14,ISEc8,,predicted,insertion sequence,2442,,0,0.994,1.0,0,14,"NZ_CAKNCF010000008.1 Escherichia coli strain cpe051, whole genome shotgun sequence",212224,214665,M2442
+15,ISEc1,ISEc6;ISEc3;ISEc4;ISEc7;ISEc2,predicted,insertion sequence,1291,,0,0.979,1.0,0,27,"NZ_CAKNCF010000009.1 Escherichia coli strain cpe051, whole genome shotgun sequence",46444,47734,M1291
+16,MITEEc1,,predicted,mite,122,,0.0,0.943,0.992,0,7,"NZ_CAKNCF010000009.1 Escherichia coli strain cpe051, whole genome shotgun sequence",174757,174878,M122
+17,ISSen9,,predicted,insertion sequence,768,,0,0.927,1.0,0,56,"NZ_CAKNCF010000010.1 Escherichia coli strain cpe051, whole genome shotgun sequence",170076,170843,M768
+18,MITEYpe1,,predicted,mite,115,,0.0,0.8,0.935,0,23,"NZ_CAKNCF010000012.1 Escherichia coli strain cpe051, whole genome shotgun sequence",63358,63472,M115
+19,ISEc1,ISEc6;ISEc3;ISEc4;ISEc7;ISEc2,predicted,insertion sequence,1288,,0,0.967,0.998,1,41,"NZ_CAKNCF010000015.1 Escherichia coli strain cpe051, whole genome shotgun sequence",91529,92816,M1147 I1 M141
+20,MITEEc1,,predicted,mite,123,,0.0,0.935,1.0,0,8,"NZ_CAKNCF010000015.1 Escherichia coli strain cpe051, whole genome shotgun sequence",78721,78843,M123
+21,ISEc9,ISEcp1;ISEcp1B,predicted,insertion sequence,1656,,0,0.999,1.0,0,1,"NZ_CAKNCF010000019.1 Escherichia coli strain cpe051, whole genome shotgun sequence",54486,56141,M1656
+22,ISEc1,ISEc6;ISEc3;ISEc4;ISEc7;ISEc2,predicted,insertion sequence,1290,,0,0.96,0.998,3,49,"NZ_CAKNCF010000020.1 Escherichia coli strain cpe051, whole genome shotgun sequence",72843,74132,M1149 I1 M116 D1 M2 I1 M22
+23,MITEEc1,,predicted,mite,121,,0.0,0.992,0.984,0,1,"NZ_CAKNCF010000020.1 Escherichia coli strain cpe051, whole genome shotgun sequence",8395,8515,M121
+24,ISEc12,,predicted,insertion sequence,2581,,0,0.999,1.0,0,2,"NZ_CAKNCF010000022.1 Escherichia coli strain cpe051, whole genome shotgun sequence",21854,24434,M2581
+25,ISEc23,,predicted,insertion sequence,2356,,0,0.998,0.93,0,5,"NZ_CAKNCF010000022.1 Escherichia coli strain cpe051, whole genome shotgun sequence",29835,32190,M2356
+26,ISKox3,,predicted,insertion sequence,1316,,0,1.0,1.0,0,0,"NZ_CAKNCF010000022.1 Escherichia coli strain cpe051, whole genome shotgun sequence",1,1316,M1316
+27,IS5,,predicted,insertion sequence,1195,,0,0.997,1.0,0,4,"NZ_CAKNCF010000022.1 Escherichia coli strain cpe051, whole genome shotgun sequence",32191,33385,M1195
+28,ISSen9,,predicted,insertion sequence,768,,0,0.945,1.0,0,42,"NZ_CAKNCF010000027.1 Escherichia coli strain cpe051, whole genome shotgun sequence",6184,6951,M768
+29,IS2,IS4521L;IS4521R,predicted,insertion sequence,1331,,0,0.975,1.0,0,33,"NZ_CAKNCF010000029.1 Escherichia coli strain cpe051, whole genome shotgun sequence",5582,6912,M1331
+30,ISSen8,,predicted,insertion sequence,1954,,0,0.869,1.0,0,255,"NZ_CAKNCF010000030.1 Escherichia coli strain cpe051, whole genome shotgun sequence",21599,23552,M1954
+31,ISEc9,ISEcp1;ISEcp1B,predicted,insertion sequence,1656,,0,0.999,1.0,0,1,"NZ_CAKNCF010000030.1 Escherichia coli strain cpe051, whole genome shotgun sequence",17808,19463,M1656
+32,IS4,,predicted,insertion sequence,1426,,0,0.996,1.0,0,5,"NZ_CAKNCF010000030.1 Escherichia coli strain cpe051, whole genome shotgun sequence",19530,20955,M1426
+33,ISKpn19,,predicted,insertion sequence,2851,,0,1.0,1.0,0,1,"NZ_CAKNCF010000032.1 Escherichia coli strain cpe051, whole genome shotgun sequence",3166,6016,M2851
+34,ISSen9,,predicted,insertion sequence,768,,0,0.945,1.0,0,42,"NZ_CAKNCF010000033.1 Escherichia coli strain cpe051, whole genome shotgun sequence",7889,8656,M768
+35,IS26,IS46;IS26R;IS160;IS140;IS26L;IS6,predicted,insertion sequence,820,,0,1.0,1.0,0,0,"NZ_CAKNCF010000039.1 Escherichia coli strain cpe051, whole genome shotgun sequence",3700,4519,M820
+36,IS6100,IS6100L;IS6100R,predicted,insertion sequence,880,,0,1.0,1.0,0,0,"NZ_CAKNCF010000040.1 Escherichia coli strain cpe051, whole genome shotgun sequence",3439,4318,M880
+37,ISSen9,,predicted,insertion sequence,749,,0,0.935,0.975,0,49,"NZ_CAKNCF010000041.1 Escherichia coli strain cpe051, whole genome shotgun sequence",2765,3513,M749
+38,ISEcl3,,predicted,insertion sequence,1003,,0,0.867,0.924,17,117,"NZ_CAKNCF010000041.1 Escherichia coli strain cpe051, whole genome shotgun sequence",444,1446,M839 D1 M1 D5 M1 D2 M3 D1 M1 D2 M1 D3 M99 I1 M4 I1 M1 I1 M39
+39,ISPrst3,,predicted,insertion sequence,863,,0,0.849,0.993,3,128,"NZ_CAKNCF010000041.1 Escherichia coli strain cpe051, whole genome shotgun sequence",1496,2358,M53 I1 M2 I1 M361 I1 M447
+40,IS3,,predicted,insertion sequence,1258,,0,1.0,1.0,0,0,"NZ_CAKNCF010000049.1 Escherichia coli strain cpe051, whole genome shotgun sequence",1,1258,M1258
+18_17,cn_1406_ISSen9,,putative,composite transposon,1406,,0,0.927,1.0,0,56,"NZ_CAKNCF010000010.1 Escherichia coli strain cpe051, whole genome shotgun sequence",169437,170843,
+23_22,cn_1670_ISEc1,,putative,composite transposon,1670,,0,0.96,0.998,3,49,"NZ_CAKNCF010000020.1 Escherichia coli strain cpe051, whole genome shotgun sequence",72842,74512,
+35_34,cn_1663_ISSen9,,putative,composite transposon,1663,,0,0.945,1.0,0,42,"NZ_CAKNCF010000033.1 Escherichia coli strain cpe051, whole genome shotgun sequence",7888,9551,
+38_37,cn_3513_ISSen9,,putative,composite transposon,3513,,0,0.935,0.975,0,49,"NZ_CAKNCF010000041.1 Escherichia coli strain cpe051, whole genome shotgun sequence",0,3513,

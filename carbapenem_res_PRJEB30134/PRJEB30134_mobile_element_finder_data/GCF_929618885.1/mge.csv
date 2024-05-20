@@ -1,0 +1,36 @@
+#date: 2024-05-19_23:06
+#sample: GCF_929618885.1_cpe070_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,ISKpn14,,predicted,insertion sequence,768,,0,1.0,1.0,0,0,"NZ_CAKNEH010000001.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",391678,392445,M768
+2,ISKpn26,,predicted,insertion sequence,1196,,0,0.997,1.0,0,4,"NZ_CAKNEH010000002.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",486079,487274,M1196
+3,MITEYpe1,,predicted,mite,123,,0.0,0.839,0.984,2,18,"NZ_CAKNEH010000002.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",91090,91212,M85 D1 M2 I1 M35
+4,MITEYpe1,,predicted,mite,118,,0.0,0.847,0.959,0,18,"NZ_CAKNEH010000002.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",507538,507655,M118
+5,ISEc9,ISEcp1;ISEcp1B,predicted,insertion sequence,1656,,0,1.0,1.0,0,0,"NZ_CAKNEH010000003.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",434770,436425,M1656
+6,ISKpn18,,predicted,insertion sequence,1283,,0,1.0,0.985,0,0,"NZ_CAKNEH010000004.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",96015,97297,M1283
+7,MITEEc1,,predicted,mite,122,,0.0,0.847,0.976,3,16,"NZ_CAKNEH010000005.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",94041,94162,M77 I1 M12 I1 M4 D1 M28
+8,MITEYpe1,,predicted,mite,123,,0.0,0.839,0.984,2,18,"NZ_CAKNEH010000005.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",257322,257444,M35 I1 M2 D1 M85
+9,MITEYpe1,,predicted,mite,123,,0.0,0.813,1.0,0,23,"NZ_CAKNEH010000008.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",222207,222329,M123
+10,IS5075,,predicted,insertion sequence,1327,,0,0.931,1.0,0,91,"NZ_CAKNEH010000010.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",135968,137294,M1327
+11,IS26,IS46;IS26R;IS160;IS140;IS26L;IS6,predicted,insertion sequence,820,,0,1.0,1.0,0,0,"NZ_CAKNEH010000013.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",1521,2340,M820
+12,MITEYpe1,,predicted,mite,117,,0.0,0.783,0.919,5,21,"NZ_CAKNEH010000014.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",64659,64775,M39 D1 M5 I1 M3 I1 M34 D1 M3 I1 M31
+13,ISKpn25,,predicted,insertion sequence,7531,,0,1.0,0.924,0,0,"NZ_CAKNEH010000017.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",58453,65983,M7531
+14,ISSen9,,predicted,insertion sequence,713,,0,0.957,0.928,0,31,"NZ_CAKNEH010000017.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",483,1195,M713
+15,ISEc38,,predicted,insertion sequence,1720,,0.0,0.737,0.966,55,405,"NZ_CAKNEH010000017.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",25643,27362,M395 D1 M3 D1 M2 I1 M3 I1 M75 D1 M3 I1 M30 D1 M4 I1 M7 I1 M2 I1 M18 D2 M323 D1 M7 I1 M2 I2 M20 I1 M3 D1 M1 D2 M1 D1 M30 D1 M1 D1 M9 I1 M2 I1 M26 I1 M1 I1 M3 D1 M1 D1 M164 D1 M7 I1 M97 I1 M1 I1 M4 D2 M13 I1 M1 I1 M5 D2 M59 D1 M3 I1 M27 D1 M4 I1 M93 D1 M4 I1 M5 I2 M2 D1 M2 D1 M3 I1 M3 D1 M8 D1 M5 I1 M160 I1 M4 D1 M46
+16,ISKpn33,,predicted,insertion sequence,2526,,0,1.0,1.0,0,0,"NZ_CAKNEH010000019.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",8289,10814,M2526
+17,ISEcl1,,predicted,insertion sequence,1336,,0,0.984,1.0,0,22,"NZ_CAKNEH010000019.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",40824,42159,M1336
+18,IS903,IS602;IS903R;IS903L,predicted,insertion sequence,1057,,0,0.975,1.0,0,26,"NZ_CAKNEH010000019.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",31515,32571,M1057
+19,ISSen9,,predicted,insertion sequence,768,,0,0.927,1.0,0,56,"NZ_CAKNEH010000019.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",39958,40725,M768
+20,ISKpn1,,predicted,insertion sequence,1445,,0,0.997,1.0,0,5,"NZ_CAKNEH010000023.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",27379,28823,M1445
+21,ISKpn14,,predicted,insertion sequence,768,,0,0.93,1.0,0,54,"NZ_CAKNEH010000024.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",1296,2063,M768
+22,ISKpn14,,predicted,insertion sequence,768,,0,0.993,1.0,0,5,"NZ_CAKNEH010000024.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",16215,16982,M768
+23,IS102,,predicted,insertion sequence,1057,,0,0.924,1.0,0,80,"NZ_CAKNEH010000025.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",102,1158,M1057
+24,Tn6196,,predicted,unit transposon,3647,,0,1.0,1.0,0,0,"NZ_CAKNEH010000026.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",7586,11232,M3647
+25,ISCfr1,,predicted,insertion sequence,1618,,0,0.999,0.999,1,0,"NZ_CAKNEH010000030.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",1681,3298,M1329 D1 M288
+26,IS6100,IS6100L;IS6100R,predicted,insertion sequence,880,,0,1.0,1.0,0,0,"NZ_CAKNEH010000033.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",3354,4233,M880
+14_13,cn_9588_ISKpn25,,putative,composite transposon,9588,,0,1.0,0.924,0,0,"NZ_CAKNEH010000017.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",56395,65983,
+15_14,cn_49737_ISSen9,,putative,composite transposon,49737,,0,0.957,0.928,0,31,"NZ_CAKNEH010000017.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",482,50219,
+23_21,cn_10662_ISKpn14,,putative,composite transposon,10662,,0,0.93,1.0,0,54,"NZ_CAKNEH010000024.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",1295,11957,
+24_22,cn_5267_ISKpn14,,putative,composite transposon,5267,,0,0.993,1.0,0,5,"NZ_CAKNEH010000024.1 Klebsiella pneumoniae strain cpe070, whole genome shotgun sequence",11715,16982,

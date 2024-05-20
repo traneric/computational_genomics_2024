@@ -1,0 +1,19 @@
+#date: 2024-05-19_22:10
+#sample: GCF_929614685.1_cpe007_genomic
+#mge_finder version: 1.1.2
+#mgedb version: 1.1.1
+#blastn version: 2.11.0+
+mge_no,name,synonyms,prediction,type,allele_len,depth,e_value,identity,coverage,gaps,substitution,contig,start,end,cigar
+1,ICE(Tn4371)6041,,predicted,ice,48573,,0,0.991,0.994,48,389,"NZ_CAKNCM010000001.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",1478136,1526708,M1995 D1 M2142 I1 M1190 N203 M4 D1 M5 D1 M2 D1 M2 D1 M32 D1 M1 D1 M9 D1 M5 D1 M2801 D1 M2691 I1 M4984 D1 M2 D2 M7799 D1 M696 D1 M1736 D14 M8 D1 M1 D1 M1 D6 M11 D2 M2 D4 M11 D1 M9651 N43 M11304 I1 M69 I1 M1129
+2,ISAeme6,,predicted,insertion sequence,1170,,0.0,0.736,0.958,23,289,"NZ_CAKNCM010000001.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",1200834,1202003,M22 I1 M84 I1 M5 D1 M98 I1 M3 D1 M122 D1 M5 I1 M6 D1 M17 I1 M56 D1 M2 I1 M48 I1 M2 D1 M220 I1 M2 D1 M138 I1 M4 D1 M34 D1 M3 I1 M4 D1 M6 I1 M253 I1 M5 D1 M20
+3,ISPa6,IS-PA-6,predicted,insertion sequence,1333,,0,0.951,0.979,28,38,"NZ_CAKNCM010000003.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",388795,390127,M9 D2 M63 I1 M1 I1 M4 I1 M1 I3 M1 I3 M49 D5 M67 I1 M1 I1 M66 D1 M29 D1 M530 D1 M11 D1 M62 D1 M14 I1 M93 D1 M5 D1 M43 D1 M240 D1 M28
+4,ISPa125,,predicted,insertion sequence,1343,,0,1.0,1.0,0,0,"NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",65643,66985,M1343
+5,ISPa196,,predicted,insertion sequence,1164,,0,1.0,1.0,0,0,"NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",124245,125408,M1164
+6,Tn4661,,predicted,unit transposon,12715,,0,0.998,0.999,10,16,"NZ_CAKNCM010000007.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",14614,27328,M3667 D10 M9038
+7,IS222,,predicted,insertion sequence,1236,,0,0.942,0.998,2,70,"NZ_CAKNCM010000010.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",109742,110977,M717 D1 M4 I1 M514
+8,ISPpu24,,predicted,insertion sequence,1382,,0,0.858,0.997,4,193,"NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",237367,238748,M38 I1 M1 I1 M11 D1 M1082 D1 M248
+9,IS6100,IS6100L;IS6100R,predicted,insertion sequence,880,,0,1.0,1.0,0,0,"NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",234084,234963,M880
+10,ISPst3,,predicted,insertion sequence,2605,,0,0.988,1.0,1,30,"NZ_CAKNCM010000018.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",1,2605,M2496 I1 M109
+11,IS222,,predicted,insertion sequence,1236,,0,0.974,1.0,0,32,"NZ_CAKNCM010000023.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",4431,5666,M1236
+12,IS26,IS46;IS26R;IS160;IS140;IS26L;IS6,predicted,insertion sequence,820,,0,1.0,1.0,0,0,"NZ_CAKNCM010000039.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",1,820,M820
+9_8,cn_3765_ISPpu24,,putative,composite transposon,3765,,0,0.858,0.997,4,193,"NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence",237366,241131,

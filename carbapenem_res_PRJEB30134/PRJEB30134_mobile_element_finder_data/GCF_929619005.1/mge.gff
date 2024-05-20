@@ -1,0 +1,68 @@
+##gff-version 3
+NZ_CAKNEP010000001.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	615391	615513	.	-	.	Alias=None;Gap=M123;ID=MGE1;Name=MITEYpe1;other=
+NZ_CAKNEP010000001.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	615391	615406	.	-	.	Parent=MGE1
+NZ_CAKNEP010000001.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	615491	615513	.	+	.	Parent=MGE1
+NZ_CAKNEP010000001.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	184924	185040	.	-	.	Alias=None;Gap=M117;ID=MGE2;Name=MITEYpe1;other=
+NZ_CAKNEP010000002.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	446030	446151	.	+	.	Alias=None;Gap=M49 I1 M40 I1 M4 D1 M28;ID=MGE3;Name=MITEEc1;other=
+NZ_CAKNEP010000002.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	495584	495707	.	-	.	Alias=None;Gap=M64 D1 M59;ID=MGE4;Name=MITEYpe1;other=
+NZ_CAKNEP010000002.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	210076	210193	.	+	.	Alias=None;Gap=M35 I1 M2 D1 M80;ID=MGE5;Name=MITEYpe1;other=
+NZ_CAKNEP010000002.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	144525	144635	.	-	.	Alias=None;Gap=M111;ID=MGE6;Name=MITEPlu5;other=
+NZ_CAKNEP010000003.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	248218	248332	.	-	.	Alias=None;Gap=M32 I1 M37 I1 M46;ID=MGE7;Name=MITEYpe1;other=
+NZ_CAKNEP010000003.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	81985	82107	.	-	.	Alias=None;Gap=M96 D1 M2 I1 M24;ID=MGE8;Name=MITEPlu5;other=
+NZ_CAKNEP010000005.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	99215	99331	.	-	.	Alias=None;Gap=M80 D1 M2 I1 M34;ID=MGE9;Name=MITEYpe1;other=
+NZ_CAKNEP010000006.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	144062	144176	.	-	.	Alias=None;Gap=M16 I1 M56 I1 M43;ID=MGE10;Name=MITEYpe1;other=
+NZ_CAKNEP010000007.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	153300	153422	.	+	.	Alias=None;Gap=M90 I1 M1 I1 M7 D2 M23;ID=MGE11;Name=MITEEc1;other=
+NZ_CAKNEP010000008.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	unit_transposon	142	32342	.	-	.	Alias=None;Gap=M9470 I1 M1675 D6 M21050;ID=MGE12;Name=Tn6024;other=
+NZ_CAKNEP010000008.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	41077	41200	.	+	.	Alias=None;Gap=M62 D1 M61;ID=MGE13;Name=MITEEc1;other=
+NZ_CAKNEP010000011.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	52220	52342	.	-	.	Alias=None;Gap=M79 I1 M1 I1 M2 D1 M1 D1 M38;ID=MGE14;Name=MITEYpe1;other=
+NZ_CAKNEP010000011.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	65781	65897	.	+	.	Alias=None;Gap=M117;ID=MGE15;Name=MITEYpe1;other=
+NZ_CAKNEP010000011.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	mite	105801	105911	.	+	.	Alias=None;Gap=M111;ID=MGE16;Name=MITEPlu5;other=
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	64989	67425	.	-	.	Alias=None;Gap=M2437;ID=MGE17;Name=ISEc78;other=
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	64990	65038	.	-	.	Parent=MGE17
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	65074	65456	.	-	.	Parent=MGE17;name=accessory gene
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	65454	65800	.	-	.	Parent=MGE17;name=accessory gene
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	65851	67385	.	-	.	Parent=MGE17;name=transposase
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	67377	67425	.	-	.	Parent=MGE17
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	266	1033	.	+	.	Alias=None;Gap=M768;ID=MGE18;Name=ISSen9;other=
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	267	315	.	+	.	Parent=MGE18
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	323	597	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	496	1019	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	323	1019	.	+	.	Parent=MGE18;name=transposase
+NZ_CAKNEP010000018.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	985	1033	.	+	.	Parent=MGE18
+NZ_CAKNEP010000031.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	5780	7144	.	+	.	Alias=None;Gap=M1365;ID=MGE19;Name=ISLad6;other=
+NZ_CAKNEP010000031.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	5781	5829	.	+	.	Parent=MGE19
+NZ_CAKNEP010000031.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	5865	6886	.	+	.	Parent=MGE19;name=transposase
+NZ_CAKNEP010000031.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	7096	7144	.	+	.	Parent=MGE19
+NZ_CAKNEP010000040.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	1664	3280	.	-	.	Alias=None;Gap=M1617;ID=MGE20;Name=ISCfr1;other=
+NZ_CAKNEP010000040.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	1665	1713	.	-	.	Parent=MGE20
+NZ_CAKNEP010000040.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	1747	3116	.	-	.	Parent=MGE20;name=transposase
+NZ_CAKNEP010000040.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	3232	3280	.	-	.	Parent=MGE20
+NZ_CAKNEP010000041.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	3075	5516	.	+	.	Alias=None;Gap=M2442;ID=MGE21;Name=ISEc8;other=
+NZ_CAKNEP010000041.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	3076	3124	.	+	.	Parent=MGE21
+NZ_CAKNEP010000041.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	3148	3548	.	+	.	Parent=MGE21;name=accessory gene
+NZ_CAKNEP010000041.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	3546	3892	.	+	.	Parent=MGE21;name=accessory gene
+NZ_CAKNEP010000041.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	3943	5480	.	+	.	Parent=MGE21;name=transposase
+NZ_CAKNEP010000041.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	5468	5516	.	+	.	Parent=MGE21
+NZ_CAKNEP010000042.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	3375	4254	.	-	.	Alias=IS6100L;Gap=M880;ID=MGE22;Name=IS6100;other=
+NZ_CAKNEP010000042.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	3375	3388	.	-	.	Parent=MGE22
+NZ_CAKNEP010000042.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	3437	4201	.	-	.	Parent=MGE22;name=transposase
+NZ_CAKNEP010000042.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	4241	4254	.	+	.	Parent=MGE22
+NZ_CAKNEP010000047.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	unit_transposon	203	3744	.	-	.	Alias=None;Gap=M439 I1 M5 D1 M104 D3 M443 I1 M4 D1 M120 I1 M5 D1 M463 I1 M3 D1 M74 D1 M6 I1 M216 I1 M2 D1 M306 I3 M185 D1 M4 I1 M180 D1 M2 I1 M148 D1 M4 I1 M245 I1 M2 I2 M393 D1 M2 D1 M4 I2 M14 D1 M8 I1 M146;ID=MGE23;Name=Tn6196;other=
+NZ_CAKNEP010000050.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	2252	3447	.	+	.	Alias=None;Gap=M1196;ID=MGE24;Name=ISKpn26;other=
+NZ_CAKNEP010000050.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	2252	2268	.	+	.	Parent=MGE24
+NZ_CAKNEP010000050.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	2321	3301	.	+	.	Parent=MGE24;name=transposase
+NZ_CAKNEP010000050.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	3424	3447	.	-	.	Parent=MGE24
+NZ_CAKNEP010000050.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	12	1287	.	-	.	Alias=None;Gap=M775 N-6 M507;ID=MGE25;Name=IS5075;other=
+NZ_CAKNEP010000055.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	7	1373	.	-	.	Alias=None;Gap=M59 D2 M1306;ID=MGE26;Name=ISLad6;other=
+NZ_CAKNEP010000057.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	6	1326	.	-	.	Alias=None;Gap=M1321;ID=MGE27;Name=ISEc36;other=
+NZ_CAKNEP010000057.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	7	55	.	-	.	Parent=MGE27
+NZ_CAKNEP010000057.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	49	458	.	-	.	Parent=MGE27;name=transposase
+NZ_CAKNEP010000057.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	399	1321	.	-	.	Parent=MGE27;name=transposase
+NZ_CAKNEP010000057.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	49	1321	.	-	.	Parent=MGE27;name=transposase
+NZ_CAKNEP010000057.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	1278	1326	.	-	.	Parent=MGE27
+NZ_CAKNEP010000059.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	1	1230	.	+	.	Alias=None;Gap=M1230;ID=MGE28;Name=IS5075;other=
+NZ_CAKNEP010000060.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	4	1156	.	+	.	Alias=None;Gap=M1153;ID=MGE29;Name=ISEc33;other=
+NZ_CAKNEP010000060.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irl	4	18	.	+	.	Parent=MGE29
+NZ_CAKNEP010000060.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	gene	106	1137	.	+	.	Parent=MGE29;name=transposase
+NZ_CAKNEP010000060.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	irr	1140	1156	.	-	.	Parent=MGE29
+NZ_CAKNEP010000065.1 Citrobacter freundii strain cpe025, whole genome shotgun sequence	mge_finder	insertion_sequence	3	762	.	+	.	Alias=None;Gap=M760;ID=MGE30;Name=ISSen9;other=

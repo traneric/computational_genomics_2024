@@ -1,0 +1,31 @@
+##gff-version 3
+NZ_CAKNCM010000001.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	ice	1478136	1526708	.	-	.	Alias=None;Gap=M1995 D1 M2142 I1 M1190 N203 M4 D1 M5 D1 M2 D1 M2 D1 M32 D1 M1 D1 M9 D1 M5 D1 M2801 D1 M2691 I1 M4984 D1 M2 D2 M7799 D1 M696 D1 M1736 D14 M8 D1 M1 D1 M1 D6 M11 D2 M2 D4 M11 D1 M9651 N43 M11304 I1 M69 I1 M1129;ID=MGE1;Name=ICE%28Tn4371%296041;other=
+NZ_CAKNCM010000001.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	1200834	1202003	.	+	.	Alias=None;Gap=M22 I1 M84 I1 M5 D1 M98 I1 M3 D1 M122 D1 M5 I1 M6 D1 M17 I1 M56 D1 M2 I1 M48 I1 M2 D1 M220 I1 M2 D1 M138 I1 M4 D1 M34 D1 M3 I1 M4 D1 M6 I1 M253 I1 M5 D1 M20;ID=MGE2;Name=ISAeme6;other=
+NZ_CAKNCM010000003.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	388795	390127	.	+	.	Alias=IS-PA-6;Gap=M9 D2 M63 I1 M1 I1 M4 I1 M1 I3 M1 I3 M49 D5 M67 I1 M1 I1 M66 D1 M29 D1 M530 D1 M11 D1 M62 D1 M14 I1 M93 D1 M5 D1 M43 D1 M240 D1 M28;ID=MGE3;Name=ISPa6;other=
+NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	65643	66985	.	+	.	Alias=None;Gap=M1343;ID=MGE4;Name=ISPa125;other=
+NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irl	65644	65692	.	+	.	Parent=MGE4
+NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	gene	65698	66947	.	+	.	Parent=MGE4;name=transposase
+NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irr	66937	66985	.	+	.	Parent=MGE4
+NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	124245	125408	.	+	.	Alias=None;Gap=M1164;ID=MGE5;Name=ISPa196;other=
+NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irl	124246	124294	.	+	.	Parent=MGE5
+NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	gene	124328	125409	.	+	.	Parent=MGE5;name=transposase
+NZ_CAKNCM010000006.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irr	125360	125408	.	+	.	Parent=MGE5
+NZ_CAKNCM010000007.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	unit_transposon	14614	27328	.	-	.	Alias=None;Gap=M3667 D10 M9038;ID=MGE6;Name=Tn4661;other=
+NZ_CAKNCM010000010.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	109742	110977	.	+	.	Alias=None;Gap=M717 D1 M4 I1 M514;ID=MGE7;Name=IS222;other=
+NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	237367	238748	.	+	.	Alias=None;Gap=M38 I1 M1 I1 M11 D1 M1082 D1 M248;ID=MGE8;Name=ISPpu24;other=
+NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	234084	234963	.	-	.	Alias=IS6100L;Gap=M880;ID=MGE9;Name=IS6100;other=
+NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irl	234084	234097	.	-	.	Parent=MGE9
+NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	gene	234146	234910	.	-	.	Parent=MGE9;name=transposase
+NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irr	234950	234963	.	+	.	Parent=MGE9
+NZ_CAKNCM010000018.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	1	2605	.	+	.	Alias=None;Gap=M2496 I1 M109;ID=MGE10;Name=ISPst3;other=
+NZ_CAKNCM010000023.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	4431	5666	.	-	.	Alias=None;Gap=M1236;ID=MGE11;Name=IS222;other=
+NZ_CAKNCM010000023.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irl	4432	4480	.	-	.	Parent=MGE11
+NZ_CAKNCM010000023.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	gene	4498	4805	.	-	.	Parent=MGE11;name=transposase
+NZ_CAKNCM010000023.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	gene	4467	5659	.	-	.	Parent=MGE11;name=transposase
+NZ_CAKNCM010000023.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	gene	4498	5659	.	-	.	Parent=MGE11;name=transposase
+NZ_CAKNCM010000023.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irr	5618	5666	.	-	.	Parent=MGE11
+NZ_CAKNCM010000039.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	insertion_sequence	1	820	.	-	.	Alias=IS46;Gap=M820;ID=MGE12;Name=IS26;other=
+NZ_CAKNCM010000039.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irl	1	14	.	-	.	Parent=MGE12
+NZ_CAKNCM010000039.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	gene	65	769	.	-	.	Parent=MGE12;name=transposase
+NZ_CAKNCM010000039.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	irr	807	820	.	+	.	Parent=MGE12
+NZ_CAKNCM010000011.1 Pseudomonas aeruginosa strain cpe007, whole genome shotgun sequence	mge_finder	composite_transposon	237366	241131	.	+	.	Alias=None;Gap=None;ID=MGE13;Name=cn_3765_ISPpu24;other=
