@@ -9,10 +9,10 @@
 source activate MobileElementFinder
 
 # Define the input directory where the sample folders are located
-PARENT_DIR="/mnt/beegfs/home/trane2023/computational_genomics_2024/PRJEB30134_assemblies"
+PARENT_DIR="/mnt/beegfs/home/trane2023/computational_genomics_2024/barnes_hospital_PRJNA824420/barnes_hospital_assemblies"
 
 # Output directory for MobileElementFinder results
-OUTPUT_DIR="/mnt/beegfs/home/trane2023/computational_genomics_2024/PRJEB30134_mobile_element_finder_data"
+OUTPUT_DIR="/mnt/beegfs/home/trane2023/computational_genomics_2024/barnes_hospital_PRJNA824420/barnes_hospital_mobile_element_finder_data"
 
 # Loop through each sample directory
 for SAMPLE_DIR in "$PARENT_DIR"/*; do
